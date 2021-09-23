@@ -4,14 +4,22 @@ import RootStackContainer from '../Containers/RootStackContainer'
 import DrawerStackContainer from '../Containers/DrawerStackContainer'
 import { IndexStartupContainer, IndexLoginContainer } from '@/Containers'
 import { useSelector } from 'react-redux'
-import { NavigationContainer } from '@react-navigation/native'
+import { NavigationContainer, DefaultTheme } from '@react-navigation/native'
 import { navigationRef } from '@/Navigators/Root'
-import { SafeAreaView, StatusBar } from 'react-native'
+import { SafeAreaView, StatusBar, Platform } from 'react-native'
 import Toast from 'react-native-toast-message'
 import { useTheme } from '@/Theme'
 import AsyncStorage from '@react-native-async-storage/async-storage'
 
 const Stack = createStackNavigator()
+
+const theme = {
+  ...DefaultTheme,
+  colors: {
+    ...DefaultTheme.colors,
+    border: 'transparent',
+  },
+}
 
 // @refresh reset
 const ApplicationNavigator = () => {
@@ -50,7 +58,11 @@ const ApplicationNavigator = () => {
       <NavigationContainer theme={NavigationTheme} ref={navigationRef}>
         <StatusBar barStyle={darkMode ? 'light-content' : 'dark-content'} />
         <Stack.Navigator headerMode="none">
-          <Stack.Screen name="Startup" component={IndexStartupContainer} />
+          {Platform.OS === 'ios' ? (
+            <Stack.Screen name="Startup" component={IndexStartupContainer} />
+          ) : (
+            <></>
+          )}
           <Stack.Screen name="Main" component={IndexLoginContainer} />
           <Stack.Screen name="Dashboard" component={DrawerStackContainer} />
         </Stack.Navigator>

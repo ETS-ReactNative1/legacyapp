@@ -84,6 +84,7 @@ export default function () {
     /* Sizes Layouts */
     fill: {
       flex: 1,
+      backgroundColor: '#545454',
     },
     loginWrapper: {
       backgroundColor: '#ffffff',
