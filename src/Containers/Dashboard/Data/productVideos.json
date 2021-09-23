@@ -1,0 +1,750 @@
+{
+  "listPartnersVideo": [
+    { "title": "DIANNE: WEIGHT LOSS & THE MICROBIOME", 
+      "content": { 
+        "thumbnail": "https://i.vimeocdn.com/video/807310360_640.jpg", 
+        "url": "https://gcs-vimeo.akamaized.net/exp=1583108780~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F840%2F14%2F354201887%2F1451201444.mp4~hmac=0e5c4e6843a5f479be4eebcc9284e2c69d31349fa1542fe2d7b8500ece126328/vimeo-prod-skyfire-std-us/01/840/14/354201887/1451201444.mp4"
+      } 
+    }, 
+    { "title": "DIANNE: HIGH BLOOD PRESSURE & THE MICROBIOME", 
+      "content": { 
+        "thumbnail": "https://i.vimeocdn.com/video/807310887_640.jpg", 
+        "url": "https://gcs-vimeo.akamaized.net/exp=1583108977~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F840%2F14%2F354201322%2F1451197301.mp4~hmac=ae80141c49a3b4317cb0799ad59eb24d1dc1043b171a1f444ed147fafa31bfd9/vimeo-prod-skyfire-std-us/01/840/14/354201322/1451197301.mp4"
+      } 
+    }, 
+    { "title": "DIANNE: HEART BURN & THE MICROBIOME", 
+      "content": { 
+        "thumbnail": "https://i.vimeocdn.com/video/807311031_640.jpg", 
+        "url": "https://gcs-vimeo.akamaized.net/exp=1583109013~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F840%2F14%2F354201154%2F1451196242.mp4~hmac=b1749cbebb48e1d8fbf8a1fb5504bdc299d4439dc837706f2429537b4ecc05d4/vimeo-prod-skyfire-std-us/01/840/14/354201154/1451196242.mp4"
+      } 
+    }, 
+    { "title": "DIANNE: CROHN’S, COLITIS & THE MICROBIOME", 
+      "content": { 
+        "thumbnail": "https://i.vimeocdn.com/video/807311506_640.jpg", 
+        "url": "https://gcs-vimeo.akamaized.net/exp=1583162410~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F840%2F14%2F354200778%2F1451190110.mp4~hmac=6344c3b58f18ffbc29ef7dfae1c87154d81232c0151518af96a68b50c6516149/vimeo-prod-skyfire-std-us/01/840/14/354200778/1451190110.mp4"
+      } 
+    }, 
+    { "title": "DIANNE: CHRONIC PAIN & THE MICROBIOME", 
+      "content": { 
+        "thumbnail": "https://i.vimeocdn.com/video/807311305_640.jpg", 
+        "url": "https://gcs-vimeo.akamaized.net/exp=1583162513~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F840%2F14%2F354200594%2F1451189542.mp4~hmac=ffa63379ae62fb76f7c176ed19829fd956068f7baced898419b7f5042d96ede3/vimeo-prod-skyfire-std-us/01/840/14/354200594/1451189542.mp4"
+      } 
+    }, 
+    { "title": "DIANNE: CHOLESTEROL & THE MICROBIOME", 
+      "content": { 
+        "thumbnail": "https://i.vimeocdn.com/video/807311784_640.jpg", 
+        "url": "https://gcs-vimeo.akamaized.net/exp=1583167268~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F839%2F14%2F354199914%2F1451173024.mp4~hmac=dbfad0a1fe4da5c74da9dc1c27e81645fc0d1fd3c1c970a7e251275f3cc2b600/vimeo-prod-skyfire-std-us/01/839/14/354199914/1451173024.mp4"
+      } 
+    }, 
+    { "title": "DIANNE: CHRONIC FATIGUE, AUTO-IMMUNE ISSUES AND THE MICROBIOME", 
+      "content": { 
+        "thumbnail": "https://i.vimeocdn.com/video/807311675_640.jpg", 
+        "url": "https://gcs-vimeo.akamaized.net/exp=1583202993~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F840%2F14%2F354200135%2F1451185145.mp4~hmac=f86de0b1fd7c4b61f0dd4a64610ac16fd3ca41a7f1256cbbaf98290df13e5f6a/vimeo-prod-skyfire-std-us/01/840/14/354200135/1451185145.mp4"
+      } 
+    }, 
+    { "title": "DIANNE: DIABETES AND THE MICROBIOME", 
+      "content": { 
+        "thumbnail": "https://i.vimeocdn.com/video/807311191_640.jpg", 
+        "url": "https://gcs-vimeo.akamaized.net/exp=1583203049~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F840%2F14%2F354200960%2F1451193372.mp4~hmac=52eaad1575731a1373504042da444aa908caeb1f0157c4f656449324f22335dd/vimeo-prod-skyfire-std-us/01/840/14/354200960/1451193372.mp4"
+      } 
+    }, 
+    { "title": "DIANNE: INSOMNIA AND THE MICROBIOME", 
+      "content": { 
+        "thumbnail": "https://i.vimeocdn.com/video/807310734_640.jpg", 
+        "url": "https://gcs-vimeo.akamaized.net/exp=1583203225~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F840%2F14%2F354201517%2F1451198784.mp4~hmac=6677e2b9bb788bf274a3ca83279bc2e45291a02af0bfa6fe81ddfd46cef79913/vimeo-prod-skyfire-std-us/01/840/14/354201517/1451198784.mp4"
+      } 
+    }, 
+    { "title": "DIANNE: MIGRAINE HEADACHES AND THE MICROBIOME", 
+      "content": { 
+        "thumbnail": "https://i.vimeocdn.com/video/807310559_640.jpg", 
+        "url": "https://gcs-vimeo.akamaized.net/exp=1583203350~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F840%2F14%2F354201703%2F1451200997.mp4~hmac=05c1ded93ddfde33fff62cc36b98fe6b9204ff0f75405fa69a051a67c0e54450/vimeo-prod-skyfire-std-us/01/840/14/354201703/1451200997.mp4"
+      } 
+    }
+  ],
+  "listIntroVideo": [
+    { "title": "WEIGHT LOSS & THE MICROBIOME", 
+      "content": [
+        {
+          "title": "THE PROBLEM: DIFFICULTY LOSING WEIGHT",
+          "thumbnail": "https://i.vimeocdn.com/video/802419160_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583206688~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F146%2F14%2F350732629%2F1426456093.mp4~hmac=94f50607412812a5157a39f3dae2e4cda868991c39c77de002229976bbcd87b8/vimeo-prod-skyfire-std-us/01/146/14/350732629/1426456093.mp4"
+        },
+        {
+          "title": "THE SOLUTION: THE ELITE HEALTH CHALLENGE",
+          "thumbnail": "https://i.vimeocdn.com/video/802573185_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583206965~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089909%2F1426433452.mp4~hmac=6643f6be4cfe596f65a67cfcf3ff53165741431cb43fa5eed687f03fbf7254d7/vimeo-prod-skyfire-std-us/01/217/14/351089909/1426433452.mp4"
+        }
+      ]
+    }, 
+    { "title": "HIGH BLOOD PRESSURE & THE MICROBIOME", 
+      "content": [
+        {
+          "title": "THE PROBLEM: HIGH BLOOD PRESSURE",
+          "thumbnail": "https://i.vimeocdn.com/video/802419525_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583209556~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F146%2F14%2F350732452%2F1426438500.mp4~hmac=9993e73cee4234490ba3eec1ee0ac924d74eda78f05cc4264a4fc857145298f1/vimeo-prod-skyfire-std-us/01/146/14/350732452/1426438500.mp4"
+        },
+        {
+          "title": "THE SOLUTION: THE ELITE HEALTH CHALLENGE",
+          "thumbnail": "https://i.vimeocdn.com/video/802573185_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583209618~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089909%2F1426433452.mp4~hmac=aa2fb5e754495c55d74794910322e95b3e28b9c24a376fe9d165923e27f9347f/vimeo-prod-skyfire-std-us/01/217/14/351089909/1426433452.mp4"
+        }
+      ]
+    }, 
+    { "title": "HEART BURN & THE MICROBIOME", 
+      "content": [
+        {
+          "title": "THE PROBLEM: HEART BURN",
+          "thumbnail": "https://i.vimeocdn.com/video/802419746_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583209683~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F146%2F14%2F350732294%2F1426459119.mp4~hmac=d2861f3f02903ce63ec56f021764efb13f7d500bd6f291ad28ef63b55147859f/vimeo-prod-skyfire-std-us/01/146/14/350732294/1426459119.mp4"
+        },
+        {
+          "title": "THE SOLUTION: THE ELITE HEALTH CHALLENGE",
+          "thumbnail": "https://i.vimeocdn.com/video/802573185_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583209716~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089909%2F1426433452.mp4~hmac=d642ad28ecb5a903be02ba1345f6361421f08e80934091c10bfa39968cee1d42/vimeo-prod-skyfire-std-us/01/217/14/351089909/1426433452.mp4"
+        }
+      ]
+    }, 
+    { "title": "CROHN’S, COLITIS & THE MICROBIOME", 
+      "content": [
+        {
+          "title": "THE PROBLEM: CROHN’S DISEASE AND COLITIS",
+          "thumbnail": "https://i.vimeocdn.com/video/802420088_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583210114~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F146%2F14%2F350732149%2F1426459335.mp4~hmac=191a04aba234f8d78cb7b1f160acac7a0fb518d08da8aaf42b390288daf6f4aa/vimeo-prod-skyfire-std-us/01/146/14/350732149/1426459335.mp4"
+        },
+        {
+          "title": "THE SOLUTION: THE ELITE HEALTH CHALLENGE",
+          "thumbnail": "https://i.vimeocdn.com/video/802573185_640.jpg",
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583210168~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089909%2F1426433452.mp4~hmac=7960ad6cb42d3be197df11af1a7be36aec91bc6bef4e2ea1feaba55e00e534e0/vimeo-prod-skyfire-std-us/01/217/14/351089909/1426433452.mp4"
+        }
+      ]
+    }, 
+    { "title": "CHRONIC PAIN & THE MICROBIOME", 
+      "content": [
+        {
+          "title": "THE PROBLEM: CHRONIC PAIN",
+          "thumbnail": "https://i.vimeocdn.com/video/802420284_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583210277~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F146%2F14%2F350731797%2F1426350208.mp4~hmac=bd70e37c356b3e93cf4a99c6a6212f01726108a3d570a1ad3671e4ee66f389a7/vimeo-prod-skyfire-std-us/01/146/14/350731797/1426350208.mp4"
+        },
+        {
+          "title": "THE SOLUTION: THE ELITE HEALTH CHALLENGE",
+          "thumbnail": "https://i.vimeocdn.com/video/802573185_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583210334~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089909%2F1426433452.mp4~hmac=f5c7a57118cde6fe9b1a3c763d5fe17fcd51fb1f59bf98bf4ef565fc73496ff3/vimeo-prod-skyfire-std-us/01/217/14/351089909/1426433452.mp4"
+        }
+      ]
+    }, 
+    { "title": "CHOLESTEROL & THE MICROBIOME", 
+      "content": [
+        {
+          "title": "THE PROBLEM: CHOLESTEROL",
+          "thumbnail": "https://i.vimeocdn.com/video/802571223_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583210649~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351088307%2F1426459381.mp4~hmac=d26125ab2d79b30c370f5665dae03e20723b246dae0009a9145b36eb7d37a286/vimeo-prod-skyfire-std-us/01/217/14/351088307/1426459381.mp4"
+        },
+        {
+          "title": "THE SOLUTION: THE ELITE HEALTH CHALLENGE",
+          "thumbnail": "https://i.vimeocdn.com/video/802573185_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583210716~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089909%2F1426433452.mp4~hmac=c2fe3d0844e8359a1399bc2474ff1cde29ffa61ba42b13b12ade4018380eb1ce/vimeo-prod-skyfire-std-us/01/217/14/351089909/1426433452.mp4"
+        }
+      ]
+    }, 
+    { "title": "CHRONIC FATIGUE, AUTO-IMMUNE ISSUES AND THE MICROBIOME", 
+      "content": [
+        {
+          "title": "THE PROBLEM: CHRONIC FATIGUE & AUTO-IMMUNE",
+          "thumbnail": "https://i.vimeocdn.com/video/802571813_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583211060~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351088804%2F1426448232.mp4~hmac=4bb550e57ff6728f1a64d54da869f3df3634315ef474e00c467be91d39312aae/vimeo-prod-skyfire-std-us/01/217/14/351088804/1426448232.mp4"
+        },
+        {
+          "title": "THE SOLUTION: THE ELITE HEALTH CHALLENGE",
+          "thumbnail": "https://i.vimeocdn.com/video/802573185_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583211129~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089909%2F1426433452.mp4~hmac=81a642f117edf4f1b9f7e09469ec19f69a1af2d0812032af0eb74225b993381b/vimeo-prod-skyfire-std-us/01/217/14/351089909/1426433452.mp4"
+        }
+      ]
+    }, 
+    { "title": "DIABETES AND THE MICROBIOME", 
+      "content": [
+        {
+          "title": "THE PROBLEM: DIABETES",
+          "thumbnail": "https://i.vimeocdn.com/video/802572289_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583211189~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089256%2F1426445160.mp4~hmac=6142610d952b4aebb022724b5fe2235bb5bf7077dd8f7691b4eb47fb8dedfa14/vimeo-prod-skyfire-std-us/01/217/14/351089256/1426445160.mp4"
+        },
+        {
+          "title": "THE SOLUTION: THE ELITE HEALTH CHALLENGE",
+          "thumbnail": "https://i.vimeocdn.com/video/802573185_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583211246~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089909%2F1426433452.mp4~hmac=58591bc4437adfb9292c46e32230296ad8e64ac00b3e9dc52a68397f5a104fef/vimeo-prod-skyfire-std-us/01/217/14/351089909/1426433452.mp4"
+        }
+      ]
+    }, 
+    { "title": "INSOMNIA AND THE MICROBIOME", 
+      "content": [
+        {
+          "title": "THE PROBLEM: INSOMNIA",
+          "thumbnail": "https://i.vimeocdn.com/video/802572635_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583212098~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089511%2F1426452225.mp4~hmac=a53b9b9aca572eec8f93e62872273227b01a7850604e527ffb41e4cc206c4a81/vimeo-prod-skyfire-std-us/01/217/14/351089511/1426452225.mp4"
+        },
+        {
+          "title": "THE SOLUTION: THE ELITE HEALTH CHALLENGE",
+          "thumbnail": "https://i.vimeocdn.com/video/802573185_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583212139~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089909%2F1426433452.mp4~hmac=641bdd1e720254f25198ee74673d64f23565d1919b92e1611e869d42d393c03c/vimeo-prod-skyfire-std-us/01/217/14/351089909/1426433452.mp4"
+        }
+      ]
+    }, 
+    { "title": "MIGRAINE HEADACHES AND THE MICROBIOME", 
+      "content": [
+        {
+          "title": "THE PROBLEM: MIGRAINE HEADACHES",
+          "thumbnail": "https://i.vimeocdn.com/video/802572902_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583212184~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089669%2F1426428939.mp4~hmac=52eff24cc74235a28420497ca3fff10c9e3c1ccfbb06f0f5fd7a6386f9c9015d/vimeo-prod-skyfire-std-us/01/217/14/351089669/1426428939.mp4"
+        },
+        {
+          "title": "THE SOLUTION: THE ELITE HEALTH CHALLENGE",
+          "thumbnail": "https://i.vimeocdn.com/video/802573185_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583212229~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F217%2F14%2F351089909%2F1426433452.mp4~hmac=bd22c43ad327136b861e901574212c07c0fd66ddd207445026e5de0623767832/vimeo-prod-skyfire-std-us/01/217/14/351089909/1426433452.mp4"
+        }
+      ]
+    }
+  ],
+  "listProducts": [
+    { "title": "PROARGI 9+", 
+      "content": [
+        { 
+          "title": "ProArgi-9+",
+          "thumbnail": "https://i.vimeocdn.com/video/757579857_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1583250074~acl=%2A%2F1273517830.mp4%2A~hmac=e041705df047e8b8d8a363f0a557282333fb74fcace6311c34d5f9f6f415e847/vimeo-prod-skyfire-std-us/01/2523/12/312618526/1273517830.mp4",
+          "isPdf": false
+        },
+        { 
+          "title": "Fact Sheet: ProArgi-9+",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20ProArgi-9+%20Info%20Sheet%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/ProArgi9_ScienceInfoSheet_USen.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "History Of ProArgi-9+",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/The_history_of_ProArgi-9+.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Sample email to contact about ProArgi-9+",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/bigstock-Female-Hands-Typing-On-Keyboar-117153470.jpg", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/ProArgi-9+_Sample_Introduction_Letter.pdf",
+          "isPdf": true
+        } 
+      ]
+    }, 
+    { "title": "METABOLIC LDL", 
+      "content": [
+        { 
+          "title": "Metabolic LDL",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/maxresdefault%20Cropped%20(copy).jpg", 
+          "url": "https://www.youtube.com/watch?v=evN_tH4LgvU",
+          "isPdf": false
+        },
+        { 
+          "title": "Fact Sheet: Metabolic LDL",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Metabolic%20LDL/Screenshot%20Metabolic%20LDL%20product%20for%20Pop-up.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Metabolic%20LDL/MetabolicLDL_factsheet_USen.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Clinical Study Summary: Metabolic LDL",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Metabolic%20LDL/Screenshot%20Metabolic%20LDL%20Clnical%20Study%20Summary%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Metabolic%20LDL/Metabolic%20LDL%20Study%20Summary.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Sample email to contact about Metabolic LDL",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/bigstock-Female-Hands-Typing-On-Keyboar-117153470.jpg", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Metabolic%20LDL/Metabolic_LDL_Sample_Introduction_Email.pdf",
+          "isPdf": true
+        }
+      ]
+    }, 
+    { "title": "OMEGA-3", 
+      "content": [
+        { 
+          "title": "Fact Sheet: Omega-3",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Omega-3/Screenshot%20Omega%203%20Product.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Omega-3/Omega3_factsheet_USen.pdf",
+          "isPdf": true
+        } 
+      ]
+    },  
+    { "title": "BIOME SHAKE", 
+      "content": [
+        { 
+          "title": "Biome Shake",
+          "thumbnail": "https://i.vimeocdn.com/video/801372283_640.jpg", 
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583293445~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3932%2F13%2F344662841%2F1382958131.mp4~hmac=0fa9dc2485b60af712f04ac811e0811fda3f5175e276a2fd16eba77a021845d5/vimeo-prod-skyfire-std-us/01/3932/13/344662841/1382958131.mp4",
+          "isPdf": false
+        },
+        { 
+          "title": "Fact Sheet: Biome Shake",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20Shake/Screenshot%20Biome%20Shake%20Fact%20Sheet%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20Shake/BiomeShake_factsheet_USen.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Biome Shake Flier",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20Shake/Screenshot%20from%202019-08-07%2023-06-14%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20Shake/Biome_Shake_Flier.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Sample email to contact about Biome Shake",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/bigstock-Female-Hands-Typing-On-Keyboar-117153470.jpg", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20Shake/Biome_Shake_Sample_Introduction_Email.pdf",
+          "isPdf": true
+        }
+      ]
+    }, 
+    { "title": "BIOME DTX", 
+      "content": [
+        { 
+          "title": "Fact Sheet: Biome DTX",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20DTX/Screenshot%20Biome%20DTX%20product.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20DTX/BiomeDTX_factsheet_USen.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Sample email to contact about Biome DTX",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/bigstock-Female-Hands-Typing-On-Keyboar-117153470.jpg", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20DTX/Biome_DTX_Sample_Introduction_Email.pdf",
+          "isPdf": true
+        }
+      ]
+    }, 
+    { "title": "BIOME ACTIVES", 
+      "content": [
+        { 
+          "title": "Fact Sheet: Biome Actives",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20Actives/Screenshot%20Biome%20Actives%20Product.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20Actives/BiomeActives_factsheet_USen.pdf",
+          "isPdf": true
+        } 
+      ]
+    }, 
+    { "title": "BIOME BALANCE", 
+      "content": [
+        { 
+          "title": "Fact Sheet: Biome Balance",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20Balance/Screenshot%20Biome%20Balance%20Product.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20Balance/BiomeBalance_factsheet_USen.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Sample email to contact about Biome Balance",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/bigstock-Female-Hands-Typing-On-Keyboar-117153470.jpg", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Biome%20Balance/Biome_Balance_Sample_Introduction_Email.pdf",
+          "isPdf": true
+        } 
+      ]
+    }, 
+    { "title": "BODY PRIME", 
+      "content": [
+        { 
+          "title": "Fact Sheet: Body Prime",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Body%20Prime/Screenshot%20Body%20Prime%20Product.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Body%20Prime/BodyPrime_factsheet_USen.pdf",
+          "isPdf": true
+        } 
+      ]
+    }, 
+    { "title": "E9", 
+      "content": [
+        { 
+          "title": "E9",
+          "thumbnail": "https://i.vimeocdn.com/video/757579857_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1583298600~acl=%2A%2F1273517830.mp4%2A~hmac=c9bb43f3d4ab052584c01ccce15491a9b6263a41fbef6b8bd7000369993ac1f6/vimeo-prod-skyfire-std-us/01/2523/12/312618526/1273517830.mp4",
+          "isPdf": false
+        },
+        { 
+          "title": "Fact Sheet: E9",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/e9/Screenshot%20e9%20Fact%20Sheet%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/e9/e9_factsheet_USen.pdf",
+          "isPdf": true
+        } 
+      ]
+    }, 
+    { "title": "MISTICA", 
+      "content": [
+        { 
+          "title": "Mistica",
+          "thumbnail": "https://i.vimeocdn.com/video/757579484_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1583298701~acl=%2A%2F1273540143.mp4%2A~hmac=d30cc7e954979d1e2adf90415b677d437b48c5e698b9ef1ee37e2bb97ce3edff/vimeo-prod-skyfire-std-us/01/2817/12/314086621/1273540143.mp4",
+          "isPdf": false
+        },
+        { 
+          "title": "Fact Sheet: Mistica",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Mistica/Screenshot%20Mistica%20Fact%20Sheet%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Mistica/Mistica_factsheet_USen.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Clinical Study: Mistica",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Mistica/Screenshot%20Mistica%20Study%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Mistica/Mistica%20Study.pdf",
+          "isPdf": true
+        }
+      ]
+    }, 
+    { "title": "ESSENTIAL GREENS", 
+      "content": [
+        { 
+          "title": "Fact Sheet: Essential Greens",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Essential%20Greens/Screenshot%20Essential%20Greens%20Product.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Essential%20Greens/US_SU74899_FACTS.PDF",
+          "isPdf": true
+        } 
+      ]
+    }, 
+    { "title": "LIQUID CHLOROPHYLL", 
+      "content": [
+        { 
+          "title": "Fact Sheet: Liquid Chlorophyll",
+          "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Liquid%20Chlorophyll/Screenshot%20Chlorophyll%20Product.png", 
+          "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/Liquid%20Chlorophyll/LiquidChlorophyll_factsheet_USen.pdf",
+          "isPdf": true
+        } 
+      ]
+    }, 
+    { "title": "TRULūM", 
+      "content": [
+        { 
+          "title": "TRULūM",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-08-06%2000-08-37%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/files/Trulum_guide_en_us_0318.pdf",
+          "isPdf": true
+        } 
+      ]
+    }
+  ],
+  "listProductCat": [
+    { "title": "WEIGHT MANAGEMENT / LOSS", 
+      "content": [
+        { 
+          "title": "Weight Management Loss",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-26%2023-43-29.png", 
+          "url": "http://dev.legacynetwork.com/files/Weight_Management___Loss.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Clinical Study",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screen_Shot_2019-08-07_at_7.42.58_AM.png", 
+          "url": "http://dev.legacynetwork.com/files/Clinical_Study.pdf",
+          "isPdf": true
+        }
+      ]
+    }, 
+    { "title": "SPORTS FITNESS", 
+      "content": [
+        { 
+          "title": "Tour de France Team, IAM Cycling, Sponsored by Synergy",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2023-28-37.png", 
+          "url": "https://www.youtube.com/watch?v=P7pCCA0Fx2Y&feature=youtu.be",
+          "isPdf": false
+        },
+        { 
+          "title": "Synergy’s Sponsored Team Takes 9th in Tour de France",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2023-28-44.png", 
+          "url": "http://dev.legacynetwork.com/files/Cycling.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Synergy Sponsors Speed Windsurfing World Champion",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2023-28-50.png", 
+          "url": "http://dev.legacynetwork.com/files/Windsurfing.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Synergy Sponsors Olympic Rowing Coach",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-08-05%2023-57-41%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/files/Rowing.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Karate World Champ Gains Competitive Edge With Synergy",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-08-05%2023-58-25%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/files/Karate.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Synergy Products Aid Ultramarathon Runner",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-08-05%2023-56-03%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/files/Ultramarathon.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Cologne List® Approves ProArgi-9+ and e9",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screen_Shot_2019-08-01_at_9.23.55_AM%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/files/cologne-flyer-us.pdf",
+          "isPdf": true
+        },
+        { 
+          "title": "Synergy Taps Into the World of Professional Sports with Performance Products",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-08-11%2006-49-55%20Cropped.png", 
+          "url": "http://dev.legacynetwork.com/files/Sports_Fitness.pdf",
+          "isPdf": true
+        }
+      ]
+    }, 
+    { "title": "COLITIS", 
+      "content": [
+        { 
+          "title": "Kim Rash & Dianne Leavitt: Purify, Crohn's Disease and Colitis",
+          "thumbnail": "https://i.vimeocdn.com/video/751189275_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584092206~acl=%2A%2F1175753794.mp4%2A~hmac=97c498a40072c5af325576454557409726625a83945602e7f2e914baae54b3d4/vimeo-prod-skyfire-std-us/01/1256/12/306282744/1175753794.mp4",
+          "isPdf": true
+        }
+      ]
+    }, 
+    { "title": "ATHROSCLEROSIS", 
+      "content": [
+        { 
+          "title": "Turning off the Atherosclerotic Gene",
+          "thumbnail": "https://i.vimeocdn.com/video/343232384_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1583305137~acl=%2A%2F276724877.mp4%2A~hmac=6fcce108ef7d0c1d91a0725f973b390504474a88ba1aa164f1d0fbc6a3edeefe/vimeo-prod-skyfire-std-us/01/4951/1/49756203/276724877.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "CARDIOVASCULAR PLAQUE", 
+      "content": [
+        { 
+          "title": "How is Plaque affected using ProArgi-9+?",
+          "thumbnail": "https://i.vimeocdn.com/video/757262560_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584090355~acl=%2A%2F276724864.mp4%2A~hmac=1565cfb82812ae2505d3942fcf63b84d2510c1ad6599dbe2dfd256773a8911a1/vimeo-prod-skyfire-std-us/01/4944/1/49722534/276724864.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "WOMENS HEART HEALTH", 
+      "content": [
+        { 
+          "title": "Women's Heart Health",
+          "thumbnail": "https://i.vimeocdn.com/video/757760233_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1583306889~acl=%2A%2F276724911.mp4%2A~hmac=fa776302d01687a0228241071fd0f0d0e0e8d466e4b1b7ebce60ad5d4ad19127/vimeo-prod-skyfire-std-us/01/4227/2/71137663/276724911.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "HIGH BLOOD PRESSURE", 
+      "content": [
+        { 
+          "title": "High Blood Pressure",
+          "thumbnail": "https://i.vimeocdn.com/video/757760765_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1583307297~acl=%2A%2F276724983.mp4%2A~hmac=1a484ebfb839c054b9ff01a3e10c9203b746a9a4972014c078b4a49e30b192e8/vimeo-prod-skyfire-std-us/01/4227/2/71137269/276724983.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "INSULIN", 
+      "content": [
+        { 
+          "title": "Can ProArgi-9 Plus help diabetics reduce insulin and other medications?",
+          "thumbnail": "https://i.vimeocdn.com/video/757255635_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584090065~acl=%2A%2F276724867.mp4%2A~hmac=52374a6129cbc4bf4660b40ee91470cb6e1aecdbf92cfae4a4d77a30e9d753a4/vimeo-prod-skyfire-std-us/01/4943/1/49718877/276724867.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "ALZHEIMERS", 
+      "content": [
+        { 
+          "title": "Alzheimers Disease",
+          "thumbnail": "https://i.vimeocdn.com/video/757261743_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1583305688~acl=%2A%2F276724989.mp4%2A~hmac=c0af9342e181121b131c8548c64f633a10e8645c7f6eb6f5ec4849159e922a10/vimeo-prod-skyfire-std-us/01/4252/2/71261321/276724989.mp4",
+          "isPdf": true
+        }
+      ]
+    }, 
+    { "title": "SEXUAL FUNCTION", 
+      "content": [
+        { 
+          "title": "Sexual Function",
+          "thumbnail": "https://i.vimeocdn.com/video/757265942_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584090636~acl=%2A%2F277046005.mp4%2A~hmac=6f7402f565ecbb7da5b48368c1fbbfb4340a9f56a3696591e6007e86bb7393ab/vimeo-prod-skyfire-std-us/01/4252/2/71261322/277046005.mp4",
+          "isPdf": false
+        },
+        { 
+          "title": "",
+          "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screen_Shot_2019-09-02_at_7.08.41_AM.png", 
+          "url": "http://dev.legacynetwork.com/files/Sexual_Health_and_the_Nobel_Prize_in_Medicine.pdf",
+          "isPdf": true
+        }
+      ]
+    }, 
+    { "title": "AFRICAN AMERICAN HEALTH", 
+      "content": [
+        { 
+          "title": "African American Health",
+          "thumbnail": "https://i.vimeocdn.com/video/757266481_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584091910~acl=%2A%2F276724988.mp4%2A~hmac=87a15bc579d8bdb29489cf3c8131b67078699058254ebbcbf25b123167c398f2/vimeo-prod-skyfire-std-us/01/4227/2/71137664/276724988.mp4",
+          "isPdf": false
+        }
+      ]
+    }
+  ],
+  "listProductTesti": [
+    { "title": "SEXUAL FUNCTION & LIVER ENZYMES", 
+      "content": [
+        { 
+          "title": "Sexual Function & Liver Enzymes",
+          "thumbnail": "https://i.vimeocdn.com/video/346805230_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584090478~acl=%2A%2F276724909.mp4%2A~hmac=cd6efa6ba763bce8a054a11604af7e0f69ee45916387db307f84cf7b9b1436c7/vimeo-prod-skyfire-std-us/01/64/2/50322034/276724909.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "HYPOGLYCEMIA", 
+      "content": [
+        { 
+          "title": "Hypoglycemia",
+          "thumbnail": "https://i.vimeocdn.com/video/346884764_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584091623~acl=%2A%2F276724961.mp4%2A~hmac=77add9d04472e853a9ea3367aab56c5d5b28bb9856ca0ed5b2392b0182e37c50/vimeo-prod-skyfire-std-us/01/50/2/50252903/276724961.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "HEART ATTACKS AND STENTS", 
+      "content": [
+        { 
+          "title": "Heart Attacks and Stents",
+          "thumbnail": "https://i.vimeocdn.com/video/346886432_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584091731~acl=%2A%2F276724985.mp4%2A~hmac=136abf6b269a34cd098da22efe5e33116329bb38dff3654922ec830ab5fbf310/vimeo-prod-skyfire-std-us/01/50/2/50252892/276724985.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "ENDURANCE", 
+      "content": [
+        { 
+          "title": "Endurance",
+          "thumbnail": "https://i.vimeocdn.com/video/346887836_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584091816~acl=%2A%2F276724972.mp4%2A~hmac=345db392d73b978f08e724e940f1204b1be4a6501c1f49bef0dd8b5b8cb6958f/vimeo-prod-skyfire-std-us/01/50/2/50250437/276724972.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "PAIN RELEIF & CHRONIC FATIGE", 
+      "content": [
+        { 
+          "title": "Fibromyalgia",
+          "thumbnail": "https://i.vimeocdn.com/video/346887410_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584091878~acl=%2A%2F276724981.mp4%2A~hmac=bd59dc28a5d212b493a4119d4f7424c6e0634d28e652c829c05748936c277402/vimeo-prod-skyfire-std-us/01/50/2/50250438/276724981.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "NEUROPATHY, RESTLESS LEG, DIABETES & HORMONE THERAPY", 
+      "content": [
+        { 
+          "title": "Neuropathy, Restless Leg, Diabetes, Hormone Therapy",
+          "thumbnail": "https://i.vimeocdn.com/video/346883453_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584091929~acl=%2A%2F276724977.mp4%2A~hmac=343abe5c9b8053d79c12285ba3c21f572f2745cf19e2322f6d2412a74f14c474/vimeo-prod-skyfire-std-us/01/51/2/50256080/276724977.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "DIABETES & HIGH BLOOD SUGAR", 
+      "content": [
+        { 
+          "title": "Diabetes",
+          "thumbnail": "https://i.vimeocdn.com/video/346363772_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584091977~acl=%2A%2F276724869.mp4%2A~hmac=150a40eb76566938c914d1a8bb581926e37345ec63454e85d600176ee8d88341/vimeo-prod-skyfire-std-us/01/50/2/50250432/276724869.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "MENOPAUSE", 
+      "content": [
+        { 
+          "title": "Menopause",
+          "thumbnail": "https://i.vimeocdn.com/video/346881455_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584093181~acl=%2A%2F276724910.mp4%2A~hmac=6e70b0b328142e78ea59e60b9fc501720a7772d398ff7f23502a0aeb4ed37da2/vimeo-prod-skyfire-std-us/01/51/2/50256082/276724910.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "BLOOD PRESSURE, DIABETES, BRAIN & BLADDER", 
+      "content": [
+        { 
+          "title": "Blood Pressure, Diabetes, Brain & Bladder",
+          "thumbnail": "https://i.vimeocdn.com/video/346880867_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584093230~acl=%2A%2F1424439112.mp4%2A~hmac=0f8641edaef34d26457f980ac527dd1168be6211c291f0d28fff9c5471bc85be/vimeo-prod-skyfire-std-us/01/63/2/50318985/1424439112.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "SIX HEART ATTACKS, HEART TRANSPLANT, RENAL FAILURE & DIABETES", 
+      "content": [
+        { 
+          "title": "Heart Attacks and Heart Transplant",
+          "thumbnail": "https://i.vimeocdn.com/video/346886912_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584093317~acl=%2A%2F276724968.mp4%2A~hmac=92ac2da48067294a98e2b2eed40d95ed1bb900253781aac595b7197dbebf28b7/vimeo-prod-skyfire-std-us/01/50/2/50252889/276724968.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "CHOLESTEROL MEDICATION", 
+      "content": [
+        { 
+          "title": "Cholesterol Medication",
+          "thumbnail": "https://i.vimeocdn.com/video/346888816_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584093519~acl=%2A%2F276724858.mp4%2A~hmac=9c212fe015034b4353b59bfdcc62d95b9100fa7c7b1174042f641b124d8358fe/vimeo-prod-skyfire-std-us/01/50/2/50250430/276724858.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "TAKEN OFF TRANSPLANT LIST", 
+      "content": [
+        { 
+          "title": "Interview with Dr Siva of the High Desert Heart Institute",
+          "thumbnail": "https://i.vimeocdn.com/video/343376339_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584093568~acl=%2A%2F276724857.mp4%2A~hmac=fa7431b81d678c60ba553c3a4663b6af1134eb2206c9f0686667071b78d9b8e3/vimeo-prod-skyfire-std-us/01/4959/1/49798813/276724857.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "NERVOUS TICKS", 
+      "content": [
+        { 
+          "title": "Nervous Ticks",
+          "thumbnail": "https://i.vimeocdn.com/video/757484709_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584093622~acl=%2A%2F1219719681.mp4%2A~hmac=ae6a818251a034fe035766985d9dc7a488f77c957fdaa3a85651a99e7456983c/vimeo-prod-skyfire-std-us/01/3118/12/315594136/1219719681.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "DIABETES", 
+      "content": [
+        { 
+          "title": "Diabetes",
+          "thumbnail": "https://i.vimeocdn.com/video/757482090_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584093725~acl=%2A%2F1219717635.mp4%2A~hmac=790db69173db05ddadc8c8b451acd6ba92b88e73d3a5a50b9293abb91a8300db/vimeo-prod-skyfire-std-us/01/3118/12/315593913/1219717635.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "CHRONES", 
+      "content": [
+        { 
+          "title": "Crohn's disease",
+          "thumbnail": "https://i.vimeocdn.com/video/757485210_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584093784~acl=%2A%2F1219716226.mp4%2A~hmac=a488e2ba8a9a99cbc745dd9049b6878b7f86b2b920e005f37a9623e00f2266f8/vimeo-prod-skyfire-std-us/01/3118/12/315593766/1219716226.mp4",
+          "isPdf": false
+        }
+      ]
+    }, 
+    { "title": "DIABETES, ENERGY & WEIGHT LOSS", 
+      "content": [
+        { 
+          "title": "Diabetes, energy and weight loss",
+          "thumbnail": "https://i.vimeocdn.com/video/757553440_640.jpg", 
+          "url": "https://vod-progressive.akamaized.net/exp=1584093837~acl=%2A%2F1219714661.mp4%2A~hmac=21250b081e2303c1c70e6987b5585571dba08421e862b6daa9258612767f9c22/vimeo-prod-skyfire-std-us/01/3118/12/315593622/1219714661.mp4",
+          "isPdf": false
+        }
+      ]
+    }
+  ]
+}

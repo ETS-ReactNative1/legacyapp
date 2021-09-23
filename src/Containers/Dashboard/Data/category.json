@@ -1,0 +1,477 @@
+{
+  "category": [
+    {
+      "title": "Personal Video",
+      "content": {
+        "details": ""
+      },
+      "subCategory": false
+    },
+    {
+      "title": "ProArgi-9+",
+      "subCategory": [
+        {
+          "title": "Synergy Fact Sheet",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20ProArgi-9+%20Info%20Sheet%20Cropped.png",
+            "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/ProArgi9_ScienceInfoSheet_USen.pdf",
+            "isPdf": true
+          }
+        },
+        {
+          "title": "History of ProArgi-9+",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
+            "url": "http://dev.legacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/The_history_of_ProArgi-9+.pdf",
+            "isPdf": true
+          }
+        },
+        {
+          "title": "Synergy Video Buy Button",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/new_images/business/proargi.jpg",
+            "url": "https://vod-progressive.akamaized.net/exp=1595270837~acl=%2A%2F1273517830.mp4%2A~hmac=28867de6c7e8f152715fd0c2d852d562079ac3ba881ab54b3224425ab3bcf7e9/vimeo-prod-skyfire-std-us/01/2523/12/312618526/1273517830.mp4",
+            "isPdf": false
+          }
+        }
+      ]
+    },
+    {
+      "title": "Elite Health Challenge : The Problem (If, then)",
+      "subCategory": [
+        {
+          "title": "Weight Loss",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350732629' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802107585_1280x720.jpg",
+            "url": "https://vod-progressive.akamaized.net/exp=1595271008~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F146%2F14%2F350732629%2F1426456093.mp4~hmac=6c67e7fbee4cda68b6d64cd7c25cc7650d22b49f8a0a97ae5b7edc54f1343084/vimeo-prod-skyfire-std-us/01/146/14/350732629/1426456093.mp4",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "High Blood Pressure",
+          "html":"<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201322' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802107185_1280x720.jpg",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Heart Burn",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350732294' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802107585_1280x720.jpg",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Crohn's and Colitis",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350732149' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802106663_1280x720.jpg",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Chronic Pain",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350731797' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802106154_1280x720.jpg",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Cholesterol",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351088307' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802571223_1280x720.jpg",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Diabetes",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351089256' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802572289_1280x720.jpg",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Chronic Fatigue and Auto Immune",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351088804' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802571813_1280x720.jpg",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Insomnia",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351089511' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802572635_1280x720.jpg",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Migraine Headaches",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201703' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802572902_1280x720.jpg",
+            "url": "",
+            "isPdf": true
+          }
+        },
+        {
+          "title": "Website Sections - Markedly improve your health in 21 days",
+          "html": "<div class='iframe-container'><center> <img class='card-img-top' src='/images/section-markedly.png' style='width: 100%;'></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/section-markedly.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Website Sections - NUTRIONAL THERAPEUTICS",
+          "html": "<div class='iframe-container'><center> <img class='card-img-top' src='/images/section-nutritional.png' style='width: 100%;'></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/section-nutritional.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Website Sections - THE PROOF",
+          "html": "<div class='iframe-container'><center> <img class='card-img-top' src='/images/section-theproof.png' style='width: 100%;'></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/section-theproof.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Website Sections - What comes with my program?",
+          "html": "<div class='iframe-container'><center> <img class='card-img-top' src='/images/section-whatcomes.png' style='width: 100%;'></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/section-whatcomes.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Website Sections - WE WILL TAKE YOU BY THE HAND",
+          "html": "<div class='iframe-container'><center> <img class='card-img-top' src='/images/section-wewilltakeyou.png' style='width: 100%;'></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/section-wewilltakeyou.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Website Sections - ABSOLUTELY 100% MONEY-BACK GUARANTEE!",
+          "html": "div class='iframe-container'><center> <img class='card-img-top' src='/images/section-absolutely.png' style='width: 100%;'></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/section-absolutely.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Website Sections - Achieve Elite Health",
+          "html": "<div class='iframe-container'><center> <img class='card-img-top' src='/images/section-achive.png' style='width: 100%;'></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/section-achive.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Website Sections - Learn about THE elite business challenge",
+          "html": "<div class='iframe-container'><center> <img class='card-img-top' src='/images/section-learnabout.png' style='width: 100%;'></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/section-learnabout.png",
+            "url": "",
+            "isPdf": false
+          }
+        }
+      ]
+    },
+    {
+      "title": "Elite Health Challenge : The Solutions (If, then)",
+      "subCategory": [
+        {
+          "title": "Nutritional Therapeutics and Elite Health Challenge",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351089909' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/802573185_1280x720.jpg",
+            "url": "",
+            "isPdf": false
+          }
+        }
+      ]
+    },
+    {
+      "title": "Trulūm",
+      "subCategory": [
+        {
+          "title": "Usage brochure",
+          "html": "",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/new_images/US_METABOLIC_LDL.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Trulūm Sample Email",
+          "html": "",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/new_images/US_METABOLIC_LDL.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Skin Science Video",
+          "html": "",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/new_images/US_METABOLIC_LDL.png",
+            "url": "",
+            "isPdf": false
+          }
+        }
+      ]
+    },
+    {
+      "title": "Affiliate",
+      "subCategory": [
+        {
+          "title": "Product links",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/new_images/US_METABOLIC_LDL.png",
+            "url": "",
+            "isPdf": false
+          }
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "subCategory": [
+        {
+          "title": "Product niche and business supporting it",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/310563297' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot_20200129_at104010AM.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Business Challenge Intro Video",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/310563297' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot_20200129_at104010AM.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Is this Network-marketing Video",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354207909' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot_20200129_at123922PM.png",
+            "url": "",
+            "isPdf": false
+          }
+        }
+      ]
+    },
+    {
+      "title": "Products",
+      "subCategory": [
+        {
+          "title": "Link to PA9",
+          "html": "",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/products/proargi9noflavor-ssp-us.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Link to EHC",
+          "html": "",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/products/purify_kit.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Link to Trulūm",
+          "html": "",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/trulum-pack.png",
+            "url": "",
+            "isPdf": false
+          }
+        }
+      ]
+    },
+    {
+      "title": "Testimonials",
+      "subCategory": [
+        {
+          "title": "Sexual Function & Liver Enzymes",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50322034' frameborder='0' allow='accelerometer; autoplay; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2022-10-26.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Liver Enzymes",
+          "html": "",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Blood Pressure",
+          "html": "",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Energy",
+          "html": "",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Hypoglycemia",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252903' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2022-11-05.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Heart Attack & stroke",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252892' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2022-11-40.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Endurance",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50250437' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2022-12-34.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Pain Relief & Chronic Fatigue",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50250438' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2022-13-37.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Neuropathy, Restless Leg, Diabetes & Hormone Therapy + Diabetes & High Blood Sugar",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50256080' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2022-14-31.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Diabetes & High Blood Sugar",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50250432' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2022-15-27.png",
+            "url": "",
+            "isPdf": false
+          }
+        },
+        {
+          "title": "Crohns",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/315593766' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "http://dev.legacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-25%2022-21-25.png",
+            "url": "",
+            "isPdf": false
+          }
+        }
+      ]
+    }
+  ]
+}

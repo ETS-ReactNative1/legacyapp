@@ -1,0 +1,120 @@
+{
+  "eliteHealth": [
+    { "title": "CLINICAL STUDY", 
+      "content": [
+        {
+          "title": "Clinical Study: Fortify",
+          "thumbnail": "https://synergylegacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-22%2022-26-46%20Cropped.png",
+          "url": "https://synergylegacynetwork.com/files/Fortify%20Clinical%20Study.pdf",
+          "isPdf": true
+        }
+      ] 
+    }, 
+    { "title": "ELITE HEALTH CHALLENGE GUIDEBOOK", 
+      "content": [
+        {
+          "title": "EHC Guidebook",
+          "thumbnail": "https://synergylegacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-08-06%2022-25-46.png",
+          "url": "https://synergylegacynetwork.com/files/EliteHealthChallengeGuide-2.pdf",
+          "isPdf": true
+        }
+      ] 
+    }
+  ],
+  "eliteWebsiteContent": [
+    { "title": "THE PROBLEM",
+      "content": [
+        {
+          "title": "Unhealthy Gut",
+          "thumbnail": "https://i.vimeocdn.com/video/797314242_640.jpg",
+          "url": "https://gcs-vimeo.akamaized.net/exp=1583859000~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4166%2F13%2F345830436%2F1389883244.mp4~hmac=53d6ee354c88c4ed42c19fcc26fb100401f3e8550c5c42be2658a566d59c373b/vimeo-prod-skyfire-std-us/01/4166/13/345830436/1389883244.mp4",
+          "isPdf": false
+        },
+        {
+          "title": "Micriobiome",
+          "thumbnail": "https://synergylegacynetwork.com/images/vimeo_thumbs/rkRkbHQMS.jpg",
+          "url": "https://www.youtube.com/watch?v=G38O7gmqzVI",
+          "isPdf": false
+        },
+        {
+          "title": "The Breach",
+          "thumbnail": "https://synergylegacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-22%2022-10-35%20Cropped.png",
+          "url": "https://synergylegacynetwork.com/files/MicrobiomeBreach_Infographic_USen.pdf",
+          "isPdf": true
+        }
+      ] 
+    }, 
+    { "title": "THE SOLUTION", 
+      "content": [
+        {
+          "title": "Nutritional Therapeutics",
+          "thumbnail": "https://i.vimeocdn.com/video/797314894_640.jpg",
+          "url": "https://vod-progressive.akamaized.net/exp=1583918462~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4166%2F13%2F345831551%2F1389889437.mp4~hmac=2fe3b338427d7cb755828a111057b9867d552cdc6165991c504fa14da2469424/vimeo-prod-skyfire-std-us/01/4166/13/345831551/1389889437.mp4",
+          "isPdf": false
+        },
+        {
+          "title": "Quality Formulations",
+          "thumbnail": "https://i.vimeocdn.com/video/764927848_640.jpg",
+          "url": "https://vod-progressive.akamaized.net/exp=1584000434~acl=%2A%2F1251707773.mp4%2A~hmac=fdde52fb4fe2e167b3825ac9e714f97e1643db904be5e4d3e9eb465ec16c817f/vimeo-prod-skyfire-std-us/01/4413/12/322066727/1251707773.mp4",
+          "isPdf": false
+        },
+        {
+          "title": "Quality Self Manufacturing",
+          "thumbnail": "https://i.vimeocdn.com/video/764927600_640.jpg",
+          "url": "https://vod-progressive.akamaized.net/exp=1584000481~acl=%2A%2F1251709183.mp4%2A~hmac=3c45b14325fc9d606fe20e1b91be76311af8639665898328585ce17fe8432012/vimeo-prod-skyfire-std-us/01/4413/12/322066931/1251709183.mp4",
+          "isPdf": false
+        },
+        {
+          "title": "Test Method Excellence",
+          "thumbnail": "https://i.vimeocdn.com/video/764927716_640.jpg",
+          "url": "https://vod-progressive.akamaized.net/exp=1584000535~acl=%2A%2F1251708520.mp4%2A~hmac=3b3e6f477e7ee6c96ce0f596146d9dbce4e10542939179468f13f39c68b30857/vimeo-prod-skyfire-std-us/01/4413/12/322066803/1251708520.mp4",
+          "isPdf": false
+        },
+        {
+          "title": "Finding The Finest Herbs",
+          "thumbnail": "https://i.vimeocdn.com/video/768895737_640.jpg",
+          "url": "https://vod-progressive.akamaized.net/exp=1584000571~acl=%2A%2F1251709765.mp4%2A~hmac=c5aedeb5a33a3a4e2603c22f7ad688aca4b5eb6c9bc96cddedd28f622250cecc/vimeo-prod-skyfire-std-us/01/4413/12/322067046/1251709765.mp4",
+          "isPdf": false
+        },
+        {
+          "title": "The Hughes Center & Manufacturing Facility",
+          "thumbnail": "https://i.vimeocdn.com/video/754791940_640.jpg",
+          "url": "https://vod-progressive.akamaized.net/exp=1584000886~acl=%2A%2F1151575670.mp4%2A~hmac=54d9e029855a4c7bdbbefb924b1728c3b4a6ea93dc17a7b3746ce07f21bd4bc0/vimeo-prod-skyfire-std-us/01/250/12/301254454/1151575670.mp4",
+          "isPdf": false
+        },
+        {
+          "title": "Quality Assurance",
+          "thumbnail": "https://i.vimeocdn.com/video/761569200_640.jpg",
+          "url": "https://vod-progressive.akamaized.net/exp=1584000926~acl=%2A%2F1176789215.mp4%2A~hmac=0e8a7c33997dd2514109689673925dbddae500c19295f27baf26cccdd91bdc85/vimeo-prod-skyfire-std-us/01/1297/12/306489060/1176789215.mp4",
+          "isPdf": false
+        },
+        {
+          "title": "The Benefits",
+          "thumbnail": "https://synergylegacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-22%2022-23-02%20Cropped.png",
+          "url": "https://synergylegacynetwork.com/files/Elite%20Health%20Challenge%20Benefits%20Business%20Psge.pdf",
+          "isPdf": true
+        }
+      ] 
+    }, 
+    { "title": "THE PROOF", 
+      "content": [
+        {
+          "title": "Clinical Study: Fortify",
+          "thumbnail": "https://synergylegacynetwork.com/images/vimeo_thumbs/Screenshot%20from%202019-07-22%2022-26-46%20Cropped.png",
+          "url": "https://synergylegacynetwork.com/files/Fortify%20Clinical%20Study.pdf",
+          "isPdf": true
+        }
+      ] 
+    }, 
+    { "title": "WHAT COMES WITH MY PROGRAM", 
+      "content": [
+        {
+          "title": "What comes with my program?",
+          "thumbnail": "https://i.vimeocdn.com/video/799343029_640.jpg",
+          "url": "https://vod-progressive.akamaized.net/exp=1584001026~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4166%2F13%2F345832857%2F1389896817.mp4~hmac=220f6eec1878eae0863ccf733fc9a33095c2a34046b7685339798d7deed07d25/vimeo-prod-skyfire-std-us/01/4166/13/345832857/1389896817.mp4",
+          "isPdf": true
+        }
+      ] 
+    }
+  ]
+}
