@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import { createStackNavigator } from '@react-navigation/stack'
-import RootStackContainer from '../Containers/RootStackContainer'
 import DrawerStackContainer from '../Containers/DrawerStackContainer'
 import { IndexStartupContainer, IndexLoginContainer } from '@/Containers'
 import { useSelector } from 'react-redux'
@@ -17,8 +16,13 @@ const theme = {
   ...DefaultTheme,
   colors: {
     ...DefaultTheme.colors,
-    border: 'transparent',
+    primary: '#ff0000',
+    accent: '#000000',
+    text: '#ff0000',
+    background: '#ffffff',
+    contained: '#000000',
   },
+  dark: true,
 }
 
 // @refresh reset
@@ -54,8 +58,8 @@ const ApplicationNavigator = () => {
   )
 
   return (
-    <SafeAreaView style={[Layout.fill]}>
-      <NavigationContainer theme={NavigationTheme} ref={navigationRef}>
+    <SafeAreaView style={[Layout.fill, { backgroundColor: '#545454' }]}>
+      <NavigationContainer ref={navigationRef}>
         <StatusBar barStyle={darkMode ? 'light-content' : 'dark-content'} />
         <Stack.Navigator headerMode="none">
           {Platform.OS === 'ios' ? (

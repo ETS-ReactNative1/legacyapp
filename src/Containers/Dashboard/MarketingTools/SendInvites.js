@@ -227,6 +227,7 @@ class SendInvites extends Component {
       userId: 0,
       purl: 'partners',
       contacts: [],
+      filteredFilms: [],
       query: '',
       isPdfView: false,
       resource: '',
@@ -250,22 +251,13 @@ class SendInvites extends Component {
         title: 'Contacts',
         message: 'This app would like to view your contacts.',
         buttonPositive: 'Please accept bare mortal',
-      })
-        .then(Contacts.getAll)
-        .then(contacts => {
+      }).then(() => {
+        Contacts.getAll().then(contacts => {
           this.setState({ contacts: contacts })
         })
+      })
     } else {
-      // Contacts.getAll((err, contacts) => {
-      //   // if (err) {
-      //   //   throw err
-      //   // }
-      //   console.log(contacts)
-      //   // this.setState({ contacts: contacts })
-      //   // contacts returned
-      // })
       Contacts.getAll().then(contacts => {
-        // contacts returned
         this.setState({ contacts: contacts })
       })
     }
@@ -718,9 +710,9 @@ class SendInvites extends Component {
   }
 
   renderInputPopup = () => {
-    const { query } = this.state
-    const contacts = this.findFilm(query)
-    const comp = (a, b) => a.toLowerCase().trim() === b.toLowerCase().trim()
+    // const { query } = this.state
+    // const contacts = this.findFilm(query)
+    // const comp = (a, b) => a.toLowerCase().trim() === b.toLowerCase().trim()
     // console.log(contacts)
     return (
       <Modal
@@ -733,7 +725,12 @@ class SendInvites extends Component {
         hasBackdrop={false}
       >
         <View style={{ flex: 1 }}>
-          <View style={{ height: 100, backgroundColor: '#00acef' }}>
+          <View
+            style={{
+              height: Platform.OS === 'ios' ? 100 : 60,
+              backgroundColor: '#00acef',
+            }}
+          >
             <View style={styles.lefttPosition}>
               <Button
                 type="primaryV2"
@@ -764,72 +761,73 @@ class SendInvites extends Component {
             </View>
           </View>
           <View style={{ flex: 1, padding: 10 }}>
-            <FormInline>
-              {this.state.inputType === 'message' ? (
-                <Autocomplete
-                  autoFocus={true}
-                  data={
-                    contacts.length === 1 && comp(query, contacts[0].givenName)
-                      ? []
-                      : contacts
-                  }
-                  value={query}
-                  onChangeText={text =>
-                    this.setState({
-                      query: text,
-                      inputPopup: text,
-                      message: text,
-                    })
-                  }
-                  flatListProps={{
-                    keyExtractor: (_, idx) => idx,
-                    renderItem: ({ item, id }) => {
-                      return (
-                        <TouchableOpacity
+            {this.state.inputType === 'message' ? (
+              <Autocomplete
+                autoFocus={true}
+                // data={
+                //   contacts.length === 1 && comp(query, contacts[0].givenName)
+                //     ? []
+                //     : contacts
+                // }
+                data={this.state.filteredFilms}
+                value={this.state.query}
+                onChangeText={text => {
+                  this.findFilm(text)
+                  this.setState({
+                    query: text,
+                    inputPopup: text,
+                    message: text,
+                  })
+                }}
+                flatListProps={{
+                  keyExtractor: (_, idx) => idx,
+                  renderItem: ({ item, id }) => {
+                    return (
+                      <TouchableOpacity
+                        style={{
+                          backgroundColor: 'white',
+                          paddingVertical: 5,
+                        }}
+                        key={id}
+                        onPress={() => {
+                          this.setState({
+                            filteredFilms: [],
+                            inputPopup: item.givenName,
+                            query: item.givenName,
+                            message: item.givenName,
+                            phone:
+                              item.phoneNumbers.length > 0
+                                ? item.phoneNumbers[0].number
+                                : 'None',
+                          })
+                        }}
+                      >
+                        <Text
                           style={{
-                            backgroundColor: 'white',
                             paddingVertical: 5,
-                          }}
-                          key={id}
-                          onPress={() => {
-                            this.setState({
-                              inputPopup: item.givenName,
-                              query: item.givenName,
-                              message: item.givenName,
-                              phone:
-                                item.phoneNumbers.length > 0
-                                  ? item.phoneNumbers[0].number
-                                  : 'None',
-                            })
+                            paddingHorizontal: 5,
                           }}
                         >
-                          <Text
-                            style={{
-                              paddingVertical: 5,
-                              paddingHorizontal: 5,
-                            }}
-                          >
-                            {item.givenName}{' '}
-                            {item.phoneNumbers.length > 0
-                              ? item.phoneNumbers[0].number
-                              : 'None'}
-                          </Text>
-                        </TouchableOpacity>
-                      )
-                    },
-                  }}
-                />
-              ) : (
-                <Input
-                  autoFocus={true}
-                  value={this.state.inputPopup}
-                  onChangeText={inputPopup => {
-                    this.setState({ inputPopup })
-                  }}
-                  containerStyle={{ marginBottom: 10 }}
-                />
-              )}
-            </FormInline>
+                          {item.givenName}{' '}
+                          {item.phoneNumbers.length > 0
+                            ? item.phoneNumbers[0].number
+                            : 'None'}
+                        </Text>
+                      </TouchableOpacity>
+                    )
+                  },
+                }}
+              />
+            ) : (
+              <Input
+                autoFocus={true}
+                value={this.state.inputPopup}
+                onChangeText={inputPopup => {
+                  this.setState({ inputPopup })
+                }}
+                containerStyle={{ marginBottom: 10 }}
+              />
+            )}
           </View>
         </View>
       </Modal>
@@ -918,7 +916,7 @@ class SendInvites extends Component {
             type="primaryV2"
             textColor="White"
             text="+"
-            textStyle={{ fontSize: 40, fontWeight: 'bold' }}
+            textStyle={{ fontSize: 30, fontWeight: 'bold' }}
             buttonStyle={styles.addContainer}
             onPress={() => this.setState({ isCategoryVisible: true })}
           />
@@ -941,10 +939,20 @@ class SendInvites extends Component {
 
     const { contacts } = this.state
     const regex = new RegExp(`${query.trim()}`, 'i')
-    // console.log(
-    //   contacts.filter(contact => contact.givenName.search(regex) >= 0)
-    // )
-    return contacts.filter(contact => contact.givenName.search(regex) >= 0)
+    const newContact = contacts.filter(contact => contact !== null)
+    const filteredContacts = newContact.filter(contact => {
+      if (contact) {
+        if (contact.givenName !== null) {
+          return contact.givenName.search(regex) >= 0
+        }
+      }
+      return false
+    })
+    // console.log('testing', query, filteredContacts)
+    this.setState({
+      filteredFilms: filteredContacts,
+    })
+    return []
   }
 
   setOpen = () => {
@@ -1284,12 +1292,12 @@ const styles = StyleSheet.create({
   },
   rightPosition: {
     position: 'absolute',
-    top: 50,
+    top: Platform.OS === 'ios' ? 50 : 8,
     right: 5,
   },
   lefttPosition: {
     position: 'absolute',
-    top: 50,
+    top: Platform.OS === 'ios' ? 50 : 8,
     left: 5,
   },
   modalContainer: {

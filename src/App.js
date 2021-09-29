@@ -4,14 +4,9 @@ import { Provider } from 'react-redux'
 import { PersistGate } from 'redux-persist/lib/integration/react'
 import { store, persistor } from '@/Store'
 import { ApplicationNavigator } from '@/Navigators'
-import SplashScreen from 'react-native-splash-screen'
 import './Translations'
 
 const App = () => {
-  React.useEffect(() => {
-    SplashScreen.hide()
-  })
-
   return (
     <Provider store={store}>
       {/**

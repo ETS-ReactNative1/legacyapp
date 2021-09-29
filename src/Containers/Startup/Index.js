@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { ActivityIndicator, View } from 'react-native'
+import { ActivityIndicator, View, Text } from 'react-native'
 import { useDispatch } from 'react-redux'
 import { useTheme } from '@/Theme'
 import InitStartup from '@/Store/Startup/Init'
@@ -14,7 +14,7 @@ const IndexStartupContainer = () => {
   }, [dispatch])
 
   return (
-    <View style={[Layout.fill, Layout.colCenter]}>
+    <View style={{ flex: 1 }}>
       <Brand />
     </View>
   )
