@@ -75,7 +75,7 @@ export default class AccordionChildCategory extends Component {
               type="primary"
               text="View PDF"
               size="mid"
-              buttonStyle={{ height: 35, marginTop: 10 }}
+              buttonStyle={{ height: 40, marginTop: 10 }}
               onPress={() => {}}
             />
           ) : null}
@@ -84,7 +84,7 @@ export default class AccordionChildCategory extends Component {
             type="primary"
             text="Add to Invite"
             size="mid"
-            buttonStyle={{ height: 35, marginTop: 10 }}
+            buttonStyle={{ height: 40, marginTop: 10 }}
             onPress={this.props.onPress}
           />
         </View>

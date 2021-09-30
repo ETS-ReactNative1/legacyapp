@@ -73,6 +73,12 @@ const CustomDrawerContent = props => {
     props.navigation.closeDrawer()
   }
 
+  const logout = async () => {
+    console.log('here')
+    await AsyncStorage.setItem('accessToken', '')
+    toggleDrawer('Main')
+  }
+
   const goToURL = pageTitle => {
     switch (pageTitle) {
       case 'Buy Products':
@@ -583,6 +589,12 @@ const CustomDrawerContent = props => {
               onPress={() => toggleDrawer('FAQ')}
             >
               <Text style={styles.textStyle}>FAQ</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              style={styles.drawerItem}
+              onPress={() => logout()}
+            >
+              <Text style={styles.textStyle}>Logout</Text>
             </TouchableOpacity>
           </View>
         ) : null}

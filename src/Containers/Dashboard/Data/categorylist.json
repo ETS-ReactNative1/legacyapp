@@ -76,16 +76,6 @@
                   }
                 },
                 {
-                  "id":10,
-                  "title": "History of ProArgi-9+ (PDF)",
-                  "content": {
-                    "title": "History of ProArgi-9+",
-                    "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
-                    "url": "https://synergylegacynetwork.com/files/The_history_of_ProArgi-9+.pdf",
-                    "isPdf": true
-                  }
-                },
-                {
                   "id":11,
                   "title": "ProArgi-9+ Quick Facts Video (1:30)",
                   "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/312618526' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
@@ -113,7 +103,7 @@
                   "id":13,
                   "title": "Clinical Study (PDF)",
                   "content": {
-                    "title": " Clinical Study ",
+                    "title": "Clinical Study ",
                     "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
                     "url": "",
                     "isPdf": true
@@ -121,7 +111,7 @@
                 },
                 {
                   "id":14,
-                  "title": "Testimonial: Heart Attack & Stents video (:23)",
+                  "title": "Testimonial: Heart Attack & Stents Video (:23)",
                   "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252892' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
                   "content": {
                     "title": "",
@@ -133,7 +123,7 @@
                 },
                 {
                   "id":15,
-                  "title": " Testimonial: Heart Attack & Heart Transplant video (3:40)",
+                  "title": "Testimonial: Heart Attack & Heart Transplant video (3:40)",
                   "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252889' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
                   "content": {
                     "title": "",
@@ -153,7 +143,7 @@
           "subCategory": [
             {
               "id":17,
-              "title": " ***** Energy & Sports Performance Email Message (Email Template) ",
+              "title": "***** Energy & Sports Performance Email Message (Email Template) ",
               "html": "<div class='embed-responsive embed-responsive-16by9'><center><img src='https://synergylegacynetwork.com/new_images/business/proargi.jpg'></img></center></div><br>",
               "content": {
                 "title": "",
@@ -164,7 +154,7 @@
             },
             {
               "id":18,
-              "title": "  ***** Pre/Post Workout Form Letter/Overview  ",
+              "title": "***** Pre/Post Workout Form Letter/Overview  ",
               "html": "<div class='embed-responsive embed-responsive-16by9'><center><img src='https://synergylegacynetwork.com/new_images/business/proargi.jpg'></img></center></div><br>",
               "content": {
                 "title": "",
@@ -175,7 +165,7 @@
             },
             {
               "id":19,
-              "title": " ***** Pre/Post Workout (Video)",
+              "title": "***** Pre/Post Workout (Video)",
               "html": "<div class='embed-responsive embed-responsive-16by9'><center><img src='https://synergylegacynetwork.com/new_images/business/proargi.jpg'></img></center></div><br>",
               "content": {
                 "title": "",
@@ -186,10 +176,10 @@
             },
             {
               "id":20,
-              "title": " World-Class Athletic Performance (PDF) ",
+              "title": "World-Class Athletic Performance (PDF)",
               "html": "",
               "content": {
-                "title": " World-Class Athletic Performance ",
+                "title": "World-Class Athletic Performance",
                 "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
                 "url": "",
                 "isPdf": true
@@ -197,7 +187,7 @@
             },
             {
               "id":21,
-              "title": " Cycling (PDF) ",
+              "title": "Cycling (PDF) ",
               "html": "",
               "content": {
                 "title": "Cycling (PDF) ",
@@ -220,7 +210,7 @@
             },
             {
               "id":23,
-              "title": " Karate/Kickboxing (PDF) ",
+              "title": "Karate/Kickboxing (PDF) ",
               "html": "",
               "content": {
                 "title": "Karate/Kickboxing",
@@ -231,7 +221,7 @@
             },
             {
               "id":24,
-              "title": " Rowing (PDF)",
+              "title": "Rowing (PDF)",
               "html": "",
               "content": {
                 "title": "Rowing",
@@ -242,20 +232,20 @@
             },
             {
               "id":25,
-              "title": " Ultramarathon (PDF) ",
+              "title": "Ultramarathon (PDF) ",
               "html": "",
               "content": {
-                "title": " Ultramarathon ",
+                "title": "Ultramarathon ",
                 "thumbnail": "https://synergylegacynetwork.com/images/prof-ultra.png",
                 "url": "https://synergylegacynetwork.com/files/Ultramarathon.pdf",
                 "isPdf": true
               }
             },
             {
-              "title": " Windsurfing (PDF) ",
+              "title": "Windsurfing (PDF) ",
               "html": "",
               "content": {
-                "title": " Windsurfing (PDF) ",
+                "title": "Windsurfing (PDF) ",
                 "thumbnail": "https://synergylegacynetwork.com/images/prof-windsurfing.png",
                 "url": "https://synergylegacynetwork.com/files/Windsurfing.pdf",
                 "isPdf": true
@@ -263,7 +253,7 @@
             },
             {
               "id":26,
-              "title": " Endurance ",
+              "title": "Endurance",
               "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50250437' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
               "content": {
                 "title": "",
@@ -297,7 +287,7 @@
             },
             {
               "id":30,
-              "title": " Build Your Own Content ",
+              "title": "Build Your Own Content",
               "subCategory": [
                 {
                   "id":31,
@@ -313,7 +303,7 @@
                 },
                 {
                   "id":32,
-                  "title": " *** The Nobel Prize & Sexual Health (PDF)",
+                  "title": "*** The Nobel Prize & Sexual Health (PDF)",
                   "html": "",
                   "content": {
                     "title": "The Nobel Prize & Sexual Health (PDF)",
@@ -361,7 +351,7 @@
             },
             {
               "id":37,
-              "title": " Build Your Own Content ",
+              "title": "Build Your Own Content ",
               "subCategory": [
                 {
                   "id":38,
@@ -399,7 +389,7 @@
                 },
                 {
                   "id":41,
-                  "title": " Testimonial: Immune Health video ",
+                  "title": "Testimonial: Immune Health video",
                   "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/558300953' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
                   "content": {
                     "title": "",
@@ -451,7 +441,7 @@
                 },
                 {
                   "id":47,
-                  "title": " Quick Facts Video (3:49)",
+                  "title": "Quick Facts Video (3:49)",
                   "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/cGGdp2KcrFA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
                   "content": {
                     "title": "",
@@ -462,7 +452,7 @@
                 },
                 {
                   "id":48,
-                  "title": " ProArgi-9+ Bless Your Heart Video (10:06)",
+                  "title": "ProArgi-9+ Bless Your Heart Video (10:06)",
                   "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/wvzF2bSxD0s' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
                   "content": {
                     "title": "",
@@ -473,7 +463,7 @@
                 },
                 {
                   "id":49,
-                  "title": " Heart Health with Dr. Noah Jenkins Video (45:47)",
+                  "title": "Heart Health with Dr. Noah Jenkins Video (45:47)",
                   "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/551968300' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
                   "content": {
                     "title": "",
@@ -515,7 +505,7 @@
           "subCategory": [
             {
               "id":54,
-              "title": " The Problem: Weight Loss & the Microbiome (Video)  ",
+              "title": "The Problem: Weight Loss & the Microbiome (Video)  ",
               "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350732629' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
               "content": {
                 "title": "",
@@ -664,7 +654,8 @@
           "content": {
             "title": "",
             "thumbnail": "",
-            "url": "",
+            "url": "322066727",
+            "isVimeo": true,
             "isPdf": false
           }
         },
@@ -682,18 +673,19 @@
         },
         {
           "id":70,
-          "title": " Test Method Excellence video ",
+          "title": "Test Method Excellence video ",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/322066803' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
             "thumbnail": "",
-            "url": "",
+            "url": "322066803",
+            "isVimeo": true,
             "isPdf": false
           }
         },
         {
           "id":71,
-          "title": " Finding the Finest Herbs video  ",
+          "title": "Finding the Finest Herbs video  ",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/322067046' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -780,7 +772,7 @@
         },
         {
           "id":79,
-          "title": " Hypoglycemia ",
+          "title": "Hypoglycemia ",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252903' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -791,7 +783,7 @@
         },
         {
           "id":80,
-          "title": " Pain Relief & Chronic Fatigue ",
+          "title": "Pain Relief & Chronic Fatigue ",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50250438' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -802,7 +794,7 @@
         },
         {
           "id":81,
-          "title": " Neuropathy, Restless Leg,  Diabetes & Hormone Therapy ",
+          "title": "Neuropathy, Restless Leg,  Diabetes & Hormone Therapy ",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50256080' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -814,7 +806,7 @@
         },
         {
           "id":82,
-          "title": " Diabetes & High Blood Sugar ",
+          "title": "Diabetes & High Blood Sugar ",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50250432' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -826,7 +818,7 @@
         },
         {
           "id":83,
-          "title": " Crohns ",
+          "title": "Crohns ",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/315593766' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",

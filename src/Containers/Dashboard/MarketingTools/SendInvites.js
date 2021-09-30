@@ -886,30 +886,32 @@ class SendInvites extends Component {
               marginTop: 10,
             }}
           />
-          <View style={{ flex: 1 }}>
-            {this.state.loadingPreview ? (
-              <View
-                style={{
-                  flex: 1,
-                  alignItems: 'center',
-                }}
-              >
-                <FontAwesome name="spinner" color="#CCCCCC" size={20} />
-              </View>
-            ) : (
-              this.state.listCategoryInvite.map((row, index) => (
-                <RowComponent
-                  key={index}
-                  data={row}
-                  onPressDelete={hashId => this.onDeleteItem(hashId)}
-                  onPressArrow={(direction, hashId) =>
-                    this.onReOrder(direction, hashId)
-                  }
-                  onViewPdf={data => this.onViewPdf(data)}
-                />
-              ))
-            )}
-          </View>
+          <ScrollView style={{ flex: 1 }}>
+            <View style={{ flex: 1 }}>
+              {this.state.loadingPreview ? (
+                <View
+                  style={{
+                    flex: 1,
+                    alignItems: 'center',
+                  }}
+                >
+                  <FontAwesome name="spinner" color="#CCCCCC" size={20} />
+                </View>
+              ) : (
+                this.state.listCategoryInvite.map((row, index) => (
+                  <RowComponent
+                    key={index}
+                    data={row}
+                    onPressDelete={hashId => this.onDeleteItem(hashId)}
+                    onPressArrow={(direction, hashId) =>
+                      this.onReOrder(direction, hashId)
+                    }
+                    onViewPdf={data => this.onViewPdf(data)}
+                  />
+                ))
+              )}
+            </View>
+          </ScrollView>
         </View>
         <View style={styles.fabContainer}>
           <Button
@@ -1170,79 +1172,6 @@ class SendInvites extends Component {
               />
             </View>
           </Card>
-          {/* <Card title="" autoFocus={true} isShadow={true}>
-            <View>
-              <View style={{ height: 50 }}>
-                <View
-                  style={{
-                    flex: 1,
-                    alignItems: 'center',
-                  }}
-                >
-                  <Text style={{ fontSize: 18, fontWeight: 'bold' }}>
-                    INVITE PREVIEW
-                  </Text>
-                </View>
-              </View>
-              <Image
-                source={{
-                  uri: 'https://synergylegacynetwork.com/files/logo.png',
-                }}
-                style={{
-                  width: 220,
-                  height: 60,
-                  resizeMode: 'contain',
-                  alignSelf: 'center',
-                  marginTop: 10,
-                }}
-              />
-            </View>
-            <View style={{ minHeight: height - 50 }}>
-              {this.state.loadingPreview ? (
-                <View
-                  style={{
-                    flex: 1,
-                    alignItems: 'center',
-                  }}
-                >
-                  <FontAwesome name="spinner" color="#CCCCCC" size={20} />
-                </View>
-              ) : (
-                this.state.listCategoryInvite.map((row, index) => (
-                  <RowComponent
-                    key={index}
-                    data={row}
-                    onPressDelete={hashId => this.onDeleteItem(hashId)}
-                    onPressArrow={(direction, hashId) =>
-                      this.onReOrder(direction, hashId)
-                    }
-                    onViewPdf={data => this.onViewPdf(data)}
-                  />
-                ))
-              )}
-            </View>
-            <View style={styles.fabContainer}>
-              {(this.state.type === 'sms' &&
-                this.state.phone !== '' &&
-                this.state.message !== '') ||
-              (this.state.type === 'email' &&
-                this.state.subject !== '' &&
-                this.state.email !== '' &&
-                this.state.message !== '') ? (
-                <Button
-                  type="primaryV2"
-                  textColor="White"
-                  text="+"
-                  textStyle={{ fontSize: 30, fontWeight: 'bold' }}
-                  buttonStyle={styles.addContainer}
-                  onPress={() => this.setState({ isCategoryVisible: true })}
-                />
-              ) : (
-                <Text />
-              )}
-            </View>
-            {this.renderCategory()}
-          </Card> */}
         </ScrollView>
         {this.renderPreviewInvite()}
         {this.renderInputPopup()}

@@ -40,7 +40,6 @@ const IndexLoginContainer = ({ navigation }) => {
       username,
       password,
       callback: function (result) {
-        console.log(result)
         if (result.status === 200) {
           // navigate
           Toast.show({
