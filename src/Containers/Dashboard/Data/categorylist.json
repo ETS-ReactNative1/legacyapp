@@ -26,11 +26,13 @@
                 {
                   "id":5,
                   "title": "Cardiovascular Health Invite with links",
+                  "html": "<br><br><div class='section_5'><div class='container'><div class='container--item'><p>[contactName],</p><p>As an introduction, the amino acid <strong>L-Arginine </strong>is considered by many health researchers to be the most potent nutraceutical ever discovered and is referred to by scientists as the <strong>Miracle Molecule.</strong> The remarkable properties of <strong> L-Arginine were validated by the 1998 Nobel Prize in Medicine,</strong> and since then have created a frenzy of interest in the Pharmaceutical and Nutraceutical fields, alike. </p><p>Medical researchers have gathered enough clinical evidence to bring L-Arginine to the forefront of modern medicine as an accepted health enhancement for a variety of human health challenges. The L-Arginine phenomenon is changing standard treatment methodologies in heart disease, immune function, adiposity-generated diseases, genetic growth deficiencies, high blood pressure, sexual dysfunction, human aging, and much more. </p><p><strong>Columbia University refers to L-Arginine as the 'Magic Bullet' for the cardiovascular system. </strong>Over 10,000 L-arginine citations were compiled by Columbia University researchers in their quest to document the clinical benefits of this simple amino acid. It is now taught to medical students at Columbia University College of Physicians and Surgeons.</p><p>The Nobel Prize landmark discovery of Nitric Oxide (NO) revealed that not only is human life not possible without NO, but there is also irrefutable evidence that L-arginine (the chief ingredient in ProArgi-9+) is the body's chief source for creating Nitric Oxide. </p><p>Today, physicians, researchers, and scientists are embracing the effectiveness of L-arginine and its use has become mainstream. Due to the outstanding clinical results patients who have used ProArgi-9+ as part of their medical treatments, ProArgi-9+ has been listed in the Prescribers' Digital Reference (The PDR, formerly known as the Physicians' Desk Reference) since 2009 and is the only L-Arginine formula listed in this reference guide. </p><p>In addition to cardiovascular health, ProArgi-9+ has been shown to positively impact hundreds of other health conditions, not to mention its ability to increase lean muscle mass, increase lung capacity, increase performance and recovery and much more! It just makes sense, with good circulation, good things happen to the body.</p><p><strong> STORY OF PROARGI-9+ (6 minute video, 'The Historic Look at Clinical Proof): </strong></p><p><strong> <a href='https://player.vimeo.com/video/315458126' target='_blank'> https://player.vimeo.com/video/315458126 </a> </strong></p><p> <strong>NOBEL PRIZE IN MEDICINE WINNER: Dr. Lous Ignarro </strong></p><p>Learn from Dr. Ignarro’s book, 'NO More Heart Disease' how L-Arginine can <strong>'prevent and even reverse heart disease'.</strong> Find this book on Amazon: <a href='https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA ' target='_blank'> https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA </a></strong></p><p>As you are reviewing this information, write down all your questions so I can get the answers for you! </p><p>Talk to you soon! </p><p>[senderName]</p></div></div></div>",
                   "content": {
-                    "title": "",
-                    "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
+                    "title": "ProArgi-9+",
+                    "thumbnail": "https://synergylegacynetwork.com/files/cardio-prewritten.png",
                     "url": "https://synergylegacynetwork.com/files/ProArgi-9_2B_Cardiovascular_Letter.pdf",
-                    "isPdf": true
+                    "isPdf": true,
+                    "isPrewritten": true
                   }
                 }
               ]
@@ -44,7 +46,7 @@
                   "title": "Intro Video (:30)",
                   "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394319' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
                   "content": {
-                    "title": "",
+                    "title": "ProArgi-9+",
                     "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
                     "url": "541394319",
                     "isVimeo": true,
@@ -56,7 +58,7 @@
                   "title": "Overview Video (:60)",
                   "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394527' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
                   "content": {
-                    "title": "",
+                    "title": "ProArgi-9+",
                     "thumbnail": "",
                     "url": "541394527",
                     "isVimeo": true,
@@ -68,7 +70,7 @@
                   "title": "Keynote Video (3:49)",
                   "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394592' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
                   "content": {
-                    "title": "",
+                    "title": "ProArgi-9+",
                     "thumbnail": "",
                     "url": "541394592",
                     "isVimeo": true,
@@ -103,7 +105,7 @@
                   "id":13,
                   "title": "Clinical Study (PDF)",
                   "content": {
-                    "title": "Clinical Study ",
+                    "title": "ProArgi-9+",
                     "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
                     "url": "",
                     "isPdf": true
@@ -188,7 +190,7 @@
             {
               "id":21,
               "title": "Cycling (PDF) ",
-              "html": "",
+              "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-cycling.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Cycling (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Cycling.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_3'>View PDF</button> </a></p></div></div>",
               "content": {
                 "title": "Cycling (PDF) ",
                 "thumbnail": "https://synergylegacynetwork.com/images/prof-cycling.png",
@@ -211,7 +213,7 @@
             {
               "id":23,
               "title": "Karate/Kickboxing (PDF) ",
-              "html": "",
+              "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-boxing.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Karate/Kickboxing (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Karate.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_2'>View PDF</button> </a></p></div></div>",
               "content": {
                 "title": "Karate/Kickboxing",
                 "thumbnail": "https://synergylegacynetwork.com/images/prof-boxing.png",
@@ -222,7 +224,7 @@
             {
               "id":24,
               "title": "Rowing (PDF)",
-              "html": "",
+              "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-rowing.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Rowing (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Rowing.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_1'>View PDF</button> </a></p></div></div>",
               "content": {
                 "title": "Rowing",
                 "thumbnail": "https://synergylegacynetwork.com/images/prof-rowing.png",
@@ -233,7 +235,7 @@
             {
               "id":25,
               "title": "Ultramarathon (PDF) ",
-              "html": "",
+              "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-ultra.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Ultramarathon (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Ultramarathon.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_2'>View PDF</button> </a></p></div></div>",
               "content": {
                 "title": "Ultramarathon ",
                 "thumbnail": "https://synergylegacynetwork.com/images/prof-ultra.png",
@@ -243,7 +245,7 @@
             },
             {
               "title": "Windsurfing (PDF) ",
-              "html": "",
+              "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-windsurfing.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Windsurfing (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Windsurfing.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_1'>View PDF</button> </a></p></div></div>",
               "content": {
                 "title": "Windsurfing (PDF) ",
                 "thumbnail": "https://synergylegacynetwork.com/images/prof-windsurfing.png",
@@ -275,12 +277,13 @@
                 {
                   "id":29,
                   "title": "Sexual Health Information with links",
-                  "html": "",
+                  "html": "<br><br><div class='section_5'><div class='container'><div class='container--item'><p>[contactName],</p><p>SEXUAL HEALTH LETTER – NEEDS UPDATING </p><p>As an introduction, the amino acid <strong>L-Arginine</strong> is considered by many health researchers to be the most potent nutraceutical ever discovered and is referred to by scientists as the <strong>Miracle Molecule</strong>. The remarkable properties of <strong>L-Arginine were validated by the 1998 Nobel Prize in Medicine,</strong> and since then have created a frenzy of interest in the Pharmaceutical and Nutraceutical fields, alike. </p><p>Medical researchers have gathered enough clinical evidence to bring L-Arginine to the forefront of modern medicine as an accepted health enhancement for a variety of human health challenges. The L-Arginine phenomenon is changing standard treatment methodologies in heart disease, immune function, adiposity-generated diseases, genetic growth deficiencies, high blood pressure, sexual dysfunction, human aging, and much more. </p><p><strong>Columbia University refers to L-Arginine as the 'Magic Bullet' for the cardiovascular system. </strong>Over 10,000 L-arginine citations were compiled by Columbia University researchers in their quest to document the clinical benefits of this simple amino acid. It is now taught to medical students at Columbia University College of Physicians and Surgeons. </p><p>The Nobel Prize landmark discovery of Nitric Oxide (NO) revealed that not only is human life not possible without NO, but there is also irrefutable evidence that L-arginine (the chief ingredient in ProArgi-9+) is the body's chief source for creating Nitric Oxide. </p><p>Today, physicians, researchers, and scientists are embracing the effectiveness of L-arginine and its use has become mainstream. Due to the outstanding clinical results patients who have used ProArgi-9+ as part of their medical treatments, ProArgi-9+ has been listed in the Prescribers' Digital Reference (The PDR, formerly known as the Physicians' Desk Reference) since 2009 and is the only L-Arginine formula listed in this reference guide. </p><p>In addition to cardiovascular health, ProArgi-9+ has been shown to positively impact hundreds of other health conditions, not to mention its ability to increase lean muscle mass, increase lung capacity, increase performance and recovery and much more! It just makes sense, with good circulation, good things happen to the body. </p><p><strong> THE STORY OF PROARGI-9+ (6 minute video, 'The Historic Look at Clinical Proof):  </strong></p><p><strong> <a href='https://player.vimeo.com/video/315458126'>https://player.vimeo.com/video/315458126</a>  </strong></p><p><strong> NOBEL PRIZE IN MEDICINE WINNER: Dr. Lous Ignarro  </strong></p><p>Learn from Dr. Ignarro's book, 'NO More Heart Disease” how L-Arginine can <strong> 'prevent and even reverse heart disease'.  </strong>Find this book on Amazon: <strong> <a href='https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA'>https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA </a>  </strong></p><p>As you are reviewing this information, write down all your questions so I can get the answers for you! </p><p>Talk to you soon! </p><p>[senderName]</p></div></div></div>",
                   "content": {
                     "title": "",
-                    "thumbnail": "",
+                    "thumbnail": "https://synergylegacynetwork.com/files/sexual-prewritten.png",
                     "url": "https://synergylegacynetwork.com/files/Sexual_Health_Introduction_Letter.pdf",
-                    "isPdf": true
+                    "isPdf": true,
+                    "isPrewritten": true
                     }
                 }
               ]
@@ -339,7 +342,7 @@
                 {
                   "id":36,
                   "title": "Immune Support Invite with links ",
-                  "html": "",
+                  "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-rowing.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Rowing (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Rowing.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_1'>View PDF</button> </a></p></div></div>",
                   "content": {
                     "title": "",
                     "thumbnail": "",
@@ -413,12 +416,13 @@
                 {
                   "id":44,
                   "title": "Scientific & Clinical Information with links",
-                  "html": "",
+                  "html": "<br><br><div class='section_5'><iv class='container'><div class='container--item'><p>[contactName],</p><p>SCIENTIFIC & CLINICAL INFORMATION LETTER – NEEDS UPDATING</p><p>As an introduction, the amino acid <strong>L-Arginine</strong> is considered by many health researchers to be the most potent nutraceutical ever discovered and is referred to by scientists as the <strong>Miracle Molecule</strong>. The remarkable properties of <strong>L-Arginine were validated by the 1998 Nobel Prize in Medicine,</strong> and since then have created a frenzy of interest in the Pharmaceutical and Nutraceutical fields, alike. </p><p>Medical researchers have gathered enough clinical evidence to bring L-Arginine to the forefront of modern medicine as an accepted health enhancement for a variety of human health challenges. The L-Arginine phenomenon is changing standard treatment methodologies in heart disease, immune function, adiposity-generated diseases, genetic growth deficiencies, high blood pressure, sexual dysfunction, human aging, and much more. </p><p><strong>Columbia University refers to L-Arginine as the 'Magic Bullet' for the cardiovascular system. </strong>Over 10,000 L-arginine citations were compiled by Columbia University researchers in their quest to document the clinical benefits of this simple amino acid. It is now taught to medical students at Columbia University College of Physicians and Surgeons. </p><p>The Nobel Prize landmark discovery of Nitric Oxide (NO) revealed that not only is human life not possible without NO, but there is also irrefutable evidence that L-arginine (the chief ingredient in ProArgi-9+) is the body's chief source for creating Nitric Oxide. </p><p>Today, physicians, researchers, and scientists are embracing the effectiveness of L-arginine and its use has become mainstream. Due to the outstanding clinical results patients who have used ProArgi-9+ as part of their medical treatments, ProArgi-9+ has been listed in the Prescribers' Digital Reference (The PDR, formerly known as the Physicians' Desk Reference) since 2009 and is the only L-Arginine formula listed in this reference guide. </p><p>In addition to cardiovascular health, ProArgi-9+ has been shown to positively impact hundreds of other health conditions, not to mention its ability to increase lean muscle mass, increase lung capacity, increase performance and recovery and much more! It just makes sense, with good circulation, good things happen to the body. </p><p><strong> THE STORY OF PROARGI-9+ (6 minute video, 'The Historic Look at Clinical Proof):  </strong></p><p><strong> <a href='https://player.vimeo.com/video/315458126'>https://player.vimeo.com/video/315458126</a>  </strong></p><p><strong> NOBEL PRIZE IN MEDICINE WINNER: Dr. Lous Ignarro  </strong></p><p>Learn from Dr. Ignarro's book, 'NO More Heart Disease” how L-Arginine can <strong> 'prevent and even reverse heart disease'.  </strong>Find this book on Amazon: <strong> <a href='https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA'>https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA </a>  </strong></p><p>As you are reviewing this information, write down all your questions so I can get the answers for you! </p><p>Talk to you soon! </p><p>[senderName]</p></div></div></div>",
                   "content": {
                     "title": "",
-                    "thumbnail": "",
+                    "thumbnail": "https://synergylegacynetwork.com/files/files/scientific-prewritten.png",
                     "url": "https://synergylegacynetwork.com/files/Scientific__26_Clinical_Information_Introduction_Letter.pdf",
-                    "isPdf": true
+                    "isPdf": true,
+                    "isPrewritten": true
                   }
                 }
               ]
@@ -490,11 +494,14 @@
             {
               "id":52,
               "title": "Weight Loss & Gut Health Information with links",
+              "html": "<br><br><div class='section_5'><div class='container'><div class='container--item'><p>[contactName],</p><p>As an introduction, the amino acid <strong>L-Arginine </strong>is considered by many health researchers to be the most potent nutraceutical ever discovered and is referred to by scientists as the <strong>Miracle Molecule.</strong> The remarkable properties of <strong> L-Arginine were validated by the 1998 Nobel Prize in Medicine,</strong> and since then have created a frenzy of interest in the Pharmaceutical and Nutraceutical fields, alike. </p><p>Medical researchers have gathered enough clinical evidence to bring L-Arginine to the forefront of modern medicine as an accepted health enhancement for a variety of human health challenges. The L-Arginine phenomenon is changing standard treatment methodologies in heart disease, immune function, adiposity-generated diseases, genetic growth deficiencies, high blood pressure, sexual dysfunction, human aging, and much more. </p><p><strong>Columbia University refers to L-Arginine as the 'Magic Bullet' for the cardiovascular system. </strong>Over 10,000 L-arginine citations were compiled by Columbia University researchers in their quest to document the clinical benefits of this simple amino acid. It is now taught to medical students at Columbia University College of Physicians and Surgeons.</p><p>The Nobel Prize landmark discovery of Nitric Oxide (NO) revealed that not only is human life not possible without NO, but there is also irrefutable evidence that L-arginine (the chief ingredient in ProArgi-9+) is the body's chief source for creating Nitric Oxide. </p><p>Today, physicians, researchers, and scientists are embracing the effectiveness of L-arginine and its use has become mainstream. Due to the outstanding clinical results patients who have used ProArgi-9+ as part of their medical treatments, ProArgi-9+ has been listed in the Prescribers' Digital Reference (The PDR, formerly known as the Physicians' Desk Reference) since 2009 and is the only L-Arginine formula listed in this reference guide. </p><p>In addition to cardiovascular health, ProArgi-9+ has been shown to positively impact hundreds of other health conditions, not to mention its ability to increase lean muscle mass, increase lung capacity, increase performance and recovery and much more! It just makes sense, with good circulation, good things happen to the body.</p><p><strong> STORY OF PROARGI-9+ (6 minute video, 'The Historic Look at Clinical Proof): </strong></p><p><strong> <a href='https://player.vimeo.com/video/315458126' target='_blank'> https://player.vimeo.com/video/315458126 </a> </strong></p><p> <strong>NOBEL PRIZE IN MEDICINE WINNER: Dr. Lous Ignarro </strong></p><p>Learn from Dr. Ignarro’s book, 'NO More Heart Disease' how L-Arginine can <strong>'prevent and even reverse heart disease'.</strong> Find this book on Amazon: <a href='https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA ' target='_blank'> https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA </a></strong></p><p>As you are reviewing this information, write down all your questions so I can get the answers for you! </p><p>Talk to you soon! </p><p>[senderName]</p></div></div></div>",
               "content": {
                 "title": "",
-                "thumbnail": "",
+                "thumbnail": "https://synergylegacynetwork.com/files/cardio-prewritten.png",
                 "url": "https://synergylegacynetwork.com/files/ProArgi-9_2B_Cardiovascular_Letter.pdf",
-                "isPdf": true
+                "isPdf": true,
+                "isVimeo": false,
+                "isPrewritten": true
               }
             }
           ]

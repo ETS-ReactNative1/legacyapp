@@ -75,17 +75,48 @@ class RowComponent extends Component {
           >
             {data.title}
           </Text>
+          {data.content?.isPrewritten ? (
+            <Text
+              style={{
+                fontSize: 14,
+                marginBottom: 5,
+                marginTop: 5,
+              }}
+            >
+              {data.contactName},
+            </Text>
+          ) : (
+            <></>
+          )}
           <Image
             source={{ uri: data.content.thumbnail }}
-            style={{ height: 150, width: 200, resizeMode: 'contain' }}
+            style={{ height: 150, width: 200 }}
           />
+          {data.content?.isPrewritten ? (
+            <Text
+              style={{
+                fontSize: 14,
+                marginBottom: 15,
+                marginTop: 5,
+              }}
+            >
+              {data.senderName}
+            </Text>
+          ) : (
+            <></>
+          )}
         </View>
 
         <Button
           type="primary"
           text="View PDF"
           size="mid"
-          buttonStyle={{ height: 35, marginBottom: 20, marginLeft: 0 }}
+          buttonStyle={{
+            marginTop: 5,
+            height: 40,
+            marginBottom: 20,
+            marginLeft: 0,
+          }}
           onPress={() => {
             this.props.onViewPdf(data.content.url)
           }}
@@ -334,12 +365,13 @@ class SendInvites extends Component {
 
     let $listCategory = this.state.listCategoryInvite
 
-    order.map((keys, id) => {
-      let data = $listCategory[keys]
+    $listCategory.map((item, id) => {
+      let data = item //$listCategory[keys]
+      console.log(data)
       if (data.title === 'Synergy Fact Sheet') {
         params[`getVal${id + 1}`] = SynergyFactSheet
         params[`display${id + 1}`] = data.title
-      } else if (data.title === 'History of ProArgi-9+') {
+      } else if (data.content.title === 'History of ProArgi-9+') {
         params[`getVal${id + 1}`] = HistoryOfProArgi
         params[`display${id + 1}`] = data.title
       } else if (data.title === 'Synergy Video Buy Button') {
@@ -412,6 +444,7 @@ class SendInvites extends Component {
                   message: '',
                   subject: '',
                   email: '',
+                  query: '',
                 })
                 let self = this
                 setTimeout(() => {
@@ -427,6 +460,7 @@ class SendInvites extends Component {
   }
 
   onNextStep = () => {
+    console.log('clicking')
     if (this.state.type === 'sms') {
       if (
         this.state.name === '' ||
@@ -546,17 +580,25 @@ class SendInvites extends Component {
   }
 
   onAddInvite = async (data, id) => {
+    console.log(data)
     if (data.content.isVimeo) {
       const VIMEO_ID = data.content.url
       // console.log(`https://player.vimeo.com/video/${VIMEO_ID}/config`)
-      await fetch(`https://player.vimeo.com/video/${VIMEO_ID}/config`)
-        .then(res => res.json())
-        .then(res => {
-          // console.log(res)
-          data.content.url =
-            res.request.files.hls.cdns[res.request.files.hls.default_cdn].url
-        })
+      try {
+        await fetch(`https://player.vimeo.com/video/${VIMEO_ID}/config`)
+          .then(res => res.json())
+          .then(res => {
+            data.content.url =
+              res.request.files.hls.cdns[res.request.files.hls.default_cdn].url
+          })
+      } catch (e) {
+        // saving error
+      }
     }
+    data.senderName = this.state.name
+    data.contactName = this.state.message
+    data.html = data.html?.replace('[contactName]', data.contactName)
+    data.html = data.html?.replace('[senderName]', data.senderName)
     let $listInvitePreview = this.state.listCategoryInvite
     // let hashId = this.makeid(32)
     data.id = order.length
@@ -676,6 +718,8 @@ class SendInvites extends Component {
   renderPdfViewer = () => {
     return (
       <Modal
+        deviceHeight={height}
+        deviceWidth={width}
         style={{ margin: 0, paddingTop: 80 }}
         isVisible={this.state.isPdfView}
       >
@@ -924,6 +968,7 @@ class SendInvites extends Component {
           />
         </View>
         {this.renderCategory()}
+        {this.renderPdfViewer()}
         <TouchableOpacity
           style={styles.lefttPosition}
           onPress={() => this.setState({ isPreviewInvite: false })}
@@ -1175,7 +1220,6 @@ class SendInvites extends Component {
         </ScrollView>
         {this.renderPreviewInvite()}
         {this.renderInputPopup()}
-        {this.renderPdfViewer()}
       </View>
     )
   }
