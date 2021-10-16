@@ -541,17 +541,19 @@ class SendInvites extends Component {
       loadingPreview: true,
       isCategoryVisible: false,
     })
-    Toast.show({
-      position: 'bottom',
-      type: 'info',
-      text1: 'Upload processing!',
-    })
+    // Toast.show({
+    //   position: 'bottom',
+    //   type: 'info',
+    //   text1: 'Upload processing!',
+    // })
+    Alert.alert('Info', 'Upload processing!')
     this.props.uploadFileInvite(file).then(res => {
-      Toast.show({
-        position: 'bottom',
-        type: 'success',
-        text1: 'Upload successfull!',
-      })
+      // Toast.show({
+      //   position: 'bottom',
+      //   type: 'success',
+      //   text1: 'Upload successfull!',
+      // })
+      Alert.alert('Success', 'Upload successfull!')
       const video = 'https://synergylegacynetwork.com/video_invites/' + res.file
       let $listInvitePreview = this.state.listCategoryInvite
       const data = {

@@ -14,7 +14,7 @@ import Modal from 'react-native-modal'
 import Ionicons from 'react-native-vector-icons/Ionicons'
 import FontAwesome from 'react-native-vector-icons/FontAwesome'
 import DocumentPicker from 'react-native-document-picker'
-// import { launchImageLibrary } from 'react-native-image-picker';
+import { launchImageLibrary } from 'react-native-image-picker'
 import { AccordionSubCategory, Button } from '@/Components'
 import newId from '../Utils/newid'
 var { height, width } = Dimensions.get('window')
@@ -49,27 +49,47 @@ export default class AccordionCategory extends Component {
   selectOneFile = async () => {
     //Opening Document Picker for selection of one file
     try {
-      const res = await DocumentPicker.pick({
-        type: [DocumentPicker.types.allFiles],
+      // const res = await DocumentPicker.pick({
+      //   type: [DocumentPicker.types.allFiles],
+      // })
+      // this.setState({ filename: res.name, file: res })
+      let options = {
+        title: 'Select Video',
+        mediaType: 'video',
+      }
+
+      launchImageLibrary(options, response => {
+        if (response.didCancel) {
+          console.log('User cancelled image picker')
+        } else if (response.errorCode) {
+          console.log('ImagePicker Error: ', response.errorCode)
+        } else if (response.errorMessage) {
+          console.log('User tapped custom button: ', response.errorMessage)
+        } else {
+          const source = { uri: response.assets[0].uri }
+
+          // You can also display the image using data:
+          // const source = { uri: 'data:image/jpeg;base64,' + response.data };
+          this.setState({
+            filename: response.assets[0].fileName + '.mp4',
+            file: {
+              name: response.assets[0].fileName + '.mp4',
+              uri: response.assets[0].uri,
+              type: 'video/mp4',
+            },
+          })
+        }
       })
+
       // console.log(res.uri)
       // console.log(res.type) // mime type
       // console.log(res.name)
       // console.log(res.size)
-      this.setState({ filename: res.name, file: res })
-      // ImagePicker.launchImageLibrary(
-      //   { mediaType: 'video', includeBase64: true },
-      //   response => {
-      //     console.log(response)
-      //     // this.setState({ video: response })
-      //   },
-      // )
-      // ImagePicker.launchImageLibrary(options, setResponse);
     } catch (err) {
       console.log(err)
-      if (DocumentPicker.isCancel(err)) {
-        // User cancelled the picker, exit any dialogs or menus and move on
-      }
+      // if (DocumentPicker.isCancel(err)) {
+      //   // User cancelled the picker, exit any dialogs or menus and move on
+      // }
     }
   }
 
@@ -110,7 +130,6 @@ export default class AccordionCategory extends Component {
   }
 
   fileupload = () => {
-    console.log('testing')
     this.props.onUploadFile(this.state.file)
   }
 
