@@ -15,6 +15,11 @@ const PickList = ({
       items={items}
       onValueChange={onValueChange}
       value={value}
+      inputAndroid={{
+        fontSize: 13,
+      }}
+      style={pickerSelectStyles}
+      useNativeAndroidPickerStyle={false}
     />
   </View>
 )
@@ -26,5 +31,28 @@ const styles = StyleSheet.create({
     borderColor: 'rgba(0,0,0,0.2)',
     borderWidth: 1,
     borderRadius: 4,
+  },
+})
+
+const pickerSelectStyles = StyleSheet.create({
+  inputIOS: {
+    fontSize: 16,
+    paddingVertical: 12,
+    paddingHorizontal: 6,
+    borderWidth: 1,
+    borderColor: 'transparent',
+    borderRadius: 4,
+    color: 'black',
+    paddingRight: 30, // to ensure the text is never behind the icon
+  },
+  inputAndroid: {
+    fontSize: 16,
+    paddingHorizontal: 6,
+    paddingVertical: 8,
+    borderWidth: 0.5,
+    borderColor: 'lightgray',
+    borderRadius: 8,
+    color: 'black',
+    paddingRight: 30, // to ensure the text is never behind the icon
   },
 })
