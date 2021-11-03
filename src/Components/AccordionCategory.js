@@ -23,9 +23,8 @@ export default class AccordionCategory extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      data: props.data,
-      expanded: false,
-      subExpanded: false,
+      data: props,
+      expanded: props.contentList.expand,
       resource: '',
       isPdfView: false,
       filename: 'No File Attach',
@@ -39,11 +38,16 @@ export default class AccordionCategory extends Component {
   }
 
   toggleExpand = () => {
-    this.setState({ expanded: !this.state.expanded })
+    let newData = this.state.data
+    newData.contentList.expand = !this.state.expanded
+    this.props.onExpand(newData)
+    this.setState({ expanded: !this.state.expanded, data: newData })
   }
 
-  subToggleExpand = () => {
-    this.setState({ subExpanded: !this.state.subExpanded })
+  onExpand = data => {
+    let newData = this.state.data
+    this.props.onExpand(newData)
+    this.setState({ data: newData })
   }
 
   selectOneFile = async () => {
@@ -204,6 +208,7 @@ export default class AccordionCategory extends Component {
                 hasSubCategory={
                   item.subCategory && item.subCategory.length > 0 ? 'naa' : 'wa'
                 }
+                onExpand={data => this.onExpand(data)}
                 onPress={this.props.onPress}
               />
             )

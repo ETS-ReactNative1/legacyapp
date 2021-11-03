@@ -1,151 +1,152 @@
 {
   "category": [
     {
+      "expand":false,
       "id":1,
       "title": "Personal Video",
       "subCategory": false
     },
     {
-      "id":2,
+      "expand":false,
+"id":2,
       "title": "ProArgi-9+",
       "subCategory": [
         {
-          "id":3,
+          "expand":false,
+"id":3,
           "title": "Cardiovascular Health",
           "content": {
             "isPdf": true
           },
           "subCategory": [
             {
-              "id":4,
-              "title": "Pre-Written Invite",
+              "expand":false,
+"id":7,
+              "title": "Intro (:30 video)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394319' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
               "content": {
-                "isPdf": true
-              },
-              "subCategory": [
-                {
-                  "id":5,
-                  "title": "Cardiovascular Health Invite with links",
-                  "html": "<br><br><div class='section_5'><div class='container'><div class='container--item'><p>[contactName],</p><p>As an introduction, the amino acid <strong>L-Arginine </strong>is considered by many health researchers to be the most potent nutraceutical ever discovered and is referred to by scientists as the <strong>Miracle Molecule.</strong> The remarkable properties of <strong> L-Arginine were validated by the 1998 Nobel Prize in Medicine,</strong> and since then have created a frenzy of interest in the Pharmaceutical and Nutraceutical fields, alike. </p><p>Medical researchers have gathered enough clinical evidence to bring L-Arginine to the forefront of modern medicine as an accepted health enhancement for a variety of human health challenges. The L-Arginine phenomenon is changing standard treatment methodologies in heart disease, immune function, adiposity-generated diseases, genetic growth deficiencies, high blood pressure, sexual dysfunction, human aging, and much more. </p><p><strong>Columbia University refers to L-Arginine as the 'Magic Bullet' for the cardiovascular system. </strong>Over 10,000 L-arginine citations were compiled by Columbia University researchers in their quest to document the clinical benefits of this simple amino acid. It is now taught to medical students at Columbia University College of Physicians and Surgeons.</p><p>The Nobel Prize landmark discovery of Nitric Oxide (NO) revealed that not only is human life not possible without NO, but there is also irrefutable evidence that L-arginine (the chief ingredient in ProArgi-9+) is the body's chief source for creating Nitric Oxide. </p><p>Today, physicians, researchers, and scientists are embracing the effectiveness of L-arginine and its use has become mainstream. Due to the outstanding clinical results patients who have used ProArgi-9+ as part of their medical treatments, ProArgi-9+ has been listed in the Prescribers' Digital Reference (The PDR, formerly known as the Physicians' Desk Reference) since 2009 and is the only L-Arginine formula listed in this reference guide. </p><p>In addition to cardiovascular health, ProArgi-9+ has been shown to positively impact hundreds of other health conditions, not to mention its ability to increase lean muscle mass, increase lung capacity, increase performance and recovery and much more! It just makes sense, with good circulation, good things happen to the body.</p><p><strong> STORY OF PROARGI-9+ (6 minute video, 'The Historic Look at Clinical Proof): </strong></p><p><strong> <a href='https://player.vimeo.com/video/315458126' target='_blank'> https://player.vimeo.com/video/315458126 </a> </strong></p><p> <strong>NOBEL PRIZE IN MEDICINE WINNER: Dr. Lous Ignarro </strong></p><p>Learn from Dr. Ignarro’s book, 'NO More Heart Disease' how L-Arginine can <strong>'prevent and even reverse heart disease'.</strong> Find this book on Amazon: <a href='https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA ' target='_blank'> https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA </a></strong></p><p>As you are reviewing this information, write down all your questions so I can get the answers for you! </p><p>Talk to you soon! </p><p>[senderName]</p></div></div></div>",
-                  "content": {
-                    "title": "ProArgi-9+",
-                    "thumbnail": "https://synergylegacynetwork.com/files/cardio-prewritten.png",
-                    "url": "https://synergylegacynetwork.com/files/ProArgi-9_2B_Cardiovascular_Letter.pdf",
-                    "isPdf": true,
-                    "isPrewritten": true
-                  }
-                }
-              ]
+                "title": "ProArgi-9+",
+                "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
+                "url": "541394319",
+                "isVimeo": true,
+                "isPdf": false
+              }
             },
             {
-              "id":6,
-              "title": "Build Your Own Content",
-              "subCategory": [
-                {
-                  "id":7,
-                  "title": "Intro Video (:30)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394319' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "ProArgi-9+",
-                    "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
-                    "url": "541394319",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":8,
-                  "title": "Overview Video (:60)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394527' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "ProArgi-9+",
-                    "thumbnail": "",
-                    "url": "541394527",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":9,
-                  "title": "Keynote Video (3:49)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394592' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "ProArgi-9+",
-                    "thumbnail": "",
-                    "url": "541394592",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":11,
-                  "title": "ProArgi-9+ Quick Facts Video (1:30)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/312618526' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "312618526",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":12,
-                  "title": "Heart Health with Dr. Noah Jenkins Video (45:47)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/551968300' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "551968300",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":13,
-                  "title": "Clinical Study (PDF)",
-                  "content": {
-                    "title": "ProArgi-9+",
-                    "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
-                    "url": "",
-                    "isPdf": true
-                  }
-                },
-                {
-                  "id":14,
-                  "title": "Testimonial: Heart Attack & Stents Video (:23)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252892' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "50252892",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":15,
-                  "title": "Testimonial: Heart Attack & Heart Transplant video (3:40)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252889' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "50252889",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                }
-              ]
+              "expand":false,
+"id":8,
+              "title": "Overview (:58 video)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394527' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "ProArgi-9+",
+                "thumbnail": "",
+                "url": "541394527",
+                "isVimeo": true,
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":9,
+              "title": "Keynote (3:49 video)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394592' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "ProArgi-9+",
+                "thumbnail": "",
+                "url": "541394592",
+                "isVimeo": true,
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":10,
+              "title": "History of ProArgi-9+ (PDF)",
+              "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/files/history_proargi9.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 25px !important;'>History of ProArgi-9+ </h4> <br><a href='http://synergylegacynetwork.com/files/The_history_of_ProArgi-9+.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_1'>View PDF</button> </a></p></div></div>",
+              "content": {
+                "title": "",
+                "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
+                "url": "https://synergylegacynetwork.com/files/The_history_of_ProArgi-9+.pdf",
+                "isVimeo": false,
+                "isPdf": true
+              }
+            },
+            {
+              "expand":false,
+"id":13,
+              "title": "Clinical Study (PDF)",
+              "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/files/casestudy.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Clinical Study And Results</h4> <br><a href='http://synergylegacynetwork.com/files/Fortify%20Clinical%20Study.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_synergyfact_pdfbutton' value='count_2'>View PDF</button> </a></p></div></div>",
+              "content": {
+                "title": "ProArgi-9+",
+                "thumbnail": "https://synergylegacynetwork.com/files/casestudy.png",
+                "url": "https://synergylegacynetwork.com/files/Fortify%20Clinical%20Study.pdf",
+                "isVimeo": false,
+                "isPdf": true
+              }
+            },
+            {
+              "expand":false,
+"id":12,
+              "title": "Heart Health with Dr. Noah Jenkins (45:47 video)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/551968300' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "551968300",
+                "isVimeo": true,
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":14,
+              "title": "Testimonial: Heart Attack & Stents (:23 video)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252892' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "50252892",
+                "isVimeo": true,
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":15,
+              "title": "Testimonial: Heart Attack & Heart Transplant (3:40 video)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252889' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "50252889",
+                "isVimeo": true,
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":13,
+              "title": "Ready-to-send Invite: Cardiovascular Health (content & video links)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252889' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "50252889",
+                "isVimeo": true,
+                "isPdf": false
+              }
             }
           ]
         },
         {
-          "id":16,
+          "expand":false,
+"id":16,
           "title": "Energy & Sports Performance",
           "subCategory": [
             {
-              "id":17,
-              "title": "***** Energy & Sports Performance Email Message (Email Template) ",
+              "expand":false,
+"id":17,
+              "title": "Intro (:30 video)",
               "html": "<div class='embed-responsive embed-responsive-16by9'><center><img src='https://synergylegacynetwork.com/new_images/business/proargi.jpg'></img></center></div><br>",
               "content": {
                 "title": "",
@@ -155,8 +156,9 @@
               }
             },
             {
-              "id":18,
-              "title": "***** Pre/Post Workout Form Letter/Overview  ",
+              "expand":false,
+"id":18,
+              "title": "Overview (:58 video)",
               "html": "<div class='embed-responsive embed-responsive-16by9'><center><img src='https://synergylegacynetwork.com/new_images/business/proargi.jpg'></img></center></div><br>",
               "content": {
                 "title": "",
@@ -166,8 +168,9 @@
               }
             },
             {
-              "id":19,
-              "title": "***** Pre/Post Workout (Video)",
+              "expand":false,
+"id":19,
+              "title": "Keynote (:3:49 video)",
               "html": "<div class='embed-responsive embed-responsive-16by9'><center><img src='https://synergylegacynetwork.com/new_images/business/proargi.jpg'></img></center></div><br>",
               "content": {
                 "title": "",
@@ -177,7 +180,8 @@
               }
             },
             {
-              "id":20,
+              "expand":false,
+"id":20,
               "title": "World-Class Athletic Performance (PDF)",
               "html": "",
               "content": {
@@ -188,8 +192,9 @@
               }
             },
             {
-              "id":21,
-              "title": "Cycling (PDF) ",
+              "expand":false,
+"id":21,
+              "title": "Cycling (PDF)",
               "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-cycling.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Cycling (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Cycling.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_3'>View PDF</button> </a></p></div></div>",
               "content": {
                 "title": "Cycling (PDF) ",
@@ -199,7 +204,8 @@
               }
             },
             {
-              "id":22,
+              "expand":false,
+"id":22,
               "title": "IAM Cycling (Video)",
               "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/P7pCCA0Fx2Y' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
               "content": {
@@ -211,7 +217,8 @@
               }
             },
             {
-              "id":23,
+              "expand":false,
+"id":23,
               "title": "Karate/Kickboxing (PDF) ",
               "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-boxing.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Karate/Kickboxing (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Karate.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_2'>View PDF</button> </a></p></div></div>",
               "content": {
@@ -222,7 +229,8 @@
               }
             },
             {
-              "id":24,
+              "expand":false,
+"id":24,
               "title": "Rowing (PDF)",
               "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-rowing.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Rowing (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Rowing.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_1'>View PDF</button> </a></p></div></div>",
               "content": {
@@ -233,7 +241,8 @@
               }
             },
             {
-              "id":25,
+              "expand":false,
+"id":25,
               "title": "Ultramarathon (PDF) ",
               "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-ultra.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Ultramarathon (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Ultramarathon.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_2'>View PDF</button> </a></p></div></div>",
               "content": {
@@ -244,7 +253,9 @@
               }
             },
             {
-              "title": "Windsurfing (PDF) ",
+              "expand":false,
+"id":4,
+              "title": "Windsurfing (PDF)",
               "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-windsurfing.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Windsurfing (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Windsurfing.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_1'>View PDF</button> </a></p></div></div>",
               "content": {
                 "title": "Windsurfing (PDF) ",
@@ -254,8 +265,21 @@
               }
             },
             {
-              "id":26,
-              "title": "Endurance",
+              "expand":false,
+"id":26,
+              "title": "Testimonial: Endurance (Video)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50250437' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "",
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":100,
+              "title": "Ready-to-send Invite: Energy & Sports Performance (content & video links)",
               "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50250437' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
               "content": {
                 "title": "",
@@ -267,396 +291,409 @@
           ]
         },
         {
-          "id":27,
+          "expand":false,
+"id":27,
           "title": "Sexual Health",
           "subCategory": [
             {
-              "id":28,
-              "title": "Pre-Written Invite",
-              "subCategory": [
-                {
-                  "id":29,
-                  "title": "Sexual Health Information with links",
-                  "html": "<br><br><div class='section_5'><div class='container'><div class='container--item'><p>[contactName],</p><p>SEXUAL HEALTH LETTER – NEEDS UPDATING </p><p>As an introduction, the amino acid <strong>L-Arginine</strong> is considered by many health researchers to be the most potent nutraceutical ever discovered and is referred to by scientists as the <strong>Miracle Molecule</strong>. The remarkable properties of <strong>L-Arginine were validated by the 1998 Nobel Prize in Medicine,</strong> and since then have created a frenzy of interest in the Pharmaceutical and Nutraceutical fields, alike. </p><p>Medical researchers have gathered enough clinical evidence to bring L-Arginine to the forefront of modern medicine as an accepted health enhancement for a variety of human health challenges. The L-Arginine phenomenon is changing standard treatment methodologies in heart disease, immune function, adiposity-generated diseases, genetic growth deficiencies, high blood pressure, sexual dysfunction, human aging, and much more. </p><p><strong>Columbia University refers to L-Arginine as the 'Magic Bullet' for the cardiovascular system. </strong>Over 10,000 L-arginine citations were compiled by Columbia University researchers in their quest to document the clinical benefits of this simple amino acid. It is now taught to medical students at Columbia University College of Physicians and Surgeons. </p><p>The Nobel Prize landmark discovery of Nitric Oxide (NO) revealed that not only is human life not possible without NO, but there is also irrefutable evidence that L-arginine (the chief ingredient in ProArgi-9+) is the body's chief source for creating Nitric Oxide. </p><p>Today, physicians, researchers, and scientists are embracing the effectiveness of L-arginine and its use has become mainstream. Due to the outstanding clinical results patients who have used ProArgi-9+ as part of their medical treatments, ProArgi-9+ has been listed in the Prescribers' Digital Reference (The PDR, formerly known as the Physicians' Desk Reference) since 2009 and is the only L-Arginine formula listed in this reference guide. </p><p>In addition to cardiovascular health, ProArgi-9+ has been shown to positively impact hundreds of other health conditions, not to mention its ability to increase lean muscle mass, increase lung capacity, increase performance and recovery and much more! It just makes sense, with good circulation, good things happen to the body. </p><p><strong> THE STORY OF PROARGI-9+ (6 minute video, 'The Historic Look at Clinical Proof):  </strong></p><p><strong> <a href='https://player.vimeo.com/video/315458126'>https://player.vimeo.com/video/315458126</a>  </strong></p><p><strong> NOBEL PRIZE IN MEDICINE WINNER: Dr. Lous Ignarro  </strong></p><p>Learn from Dr. Ignarro's book, 'NO More Heart Disease” how L-Arginine can <strong> 'prevent and even reverse heart disease'.  </strong>Find this book on Amazon: <strong> <a href='https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA'>https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA </a>  </strong></p><p>As you are reviewing this information, write down all your questions so I can get the answers for you! </p><p>Talk to you soon! </p><p>[senderName]</p></div></div></div>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "https://synergylegacynetwork.com/files/sexual-prewritten.png",
-                    "url": "https://synergylegacynetwork.com/files/Sexual_Health_Introduction_Letter.pdf",
-                    "isPdf": true,
-                    "isPrewritten": true
-                    }
+              "expand":false,
+"id":29,
+              "title": "Intro (:30 video)",
+              "html": "<br><br><div class='section_5'><div class='container'><div class='container--item'><p>[contactName],</p><p>SEXUAL HEALTH LETTER – NEEDS UPDATING </p><p>As an introduction, the amino acid <strong>L-Arginine</strong> is considered by many health researchers to be the most potent nutraceutical ever discovered and is referred to by scientists as the <strong>Miracle Molecule</strong>. The remarkable properties of <strong>L-Arginine were validated by the 1998 Nobel Prize in Medicine,</strong> and since then have created a frenzy of interest in the Pharmaceutical and Nutraceutical fields, alike. </p><p>Medical researchers have gathered enough clinical evidence to bring L-Arginine to the forefront of modern medicine as an accepted health enhancement for a variety of human health challenges. The L-Arginine phenomenon is changing standard treatment methodologies in heart disease, immune function, adiposity-generated diseases, genetic growth deficiencies, high blood pressure, sexual dysfunction, human aging, and much more. </p><p><strong>Columbia University refers to L-Arginine as the 'Magic Bullet' for the cardiovascular system. </strong>Over 10,000 L-arginine citations were compiled by Columbia University researchers in their quest to document the clinical benefits of this simple amino acid. It is now taught to medical students at Columbia University College of Physicians and Surgeons. </p><p>The Nobel Prize landmark discovery of Nitric Oxide (NO) revealed that not only is human life not possible without NO, but there is also irrefutable evidence that L-arginine (the chief ingredient in ProArgi-9+) is the body's chief source for creating Nitric Oxide. </p><p>Today, physicians, researchers, and scientists are embracing the effectiveness of L-arginine and its use has become mainstream. Due to the outstanding clinical results patients who have used ProArgi-9+ as part of their medical treatments, ProArgi-9+ has been listed in the Prescribers' Digital Reference (The PDR, formerly known as the Physicians' Desk Reference) since 2009 and is the only L-Arginine formula listed in this reference guide. </p><p>In addition to cardiovascular health, ProArgi-9+ has been shown to positively impact hundreds of other health conditions, not to mention its ability to increase lean muscle mass, increase lung capacity, increase performance and recovery and much more! It just makes sense, with good circulation, good things happen to the body. </p><p><strong> THE STORY OF PROARGI-9+ (6 minute video, 'The Historic Look at Clinical Proof):  </strong></p><p><strong> <a href='https://player.vimeo.com/video/315458126'>https://player.vimeo.com/video/315458126</a>  </strong></p><p><strong> NOBEL PRIZE IN MEDICINE WINNER: Dr. Lous Ignarro  </strong></p><p>Learn from Dr. Ignarro's book, 'NO More Heart Disease” how L-Arginine can <strong> 'prevent and even reverse heart disease'.  </strong>Find this book on Amazon: <strong> <a href='https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA'>https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA </a>  </strong></p><p>As you are reviewing this information, write down all your questions so I can get the answers for you! </p><p>Talk to you soon! </p><p>[senderName]</p></div></div></div>",
+              "content": {
+                "title": "",
+                "thumbnail": "https://synergylegacynetwork.com/files/sexual-prewritten.png",
+                "url": "https://synergylegacynetwork.com/files/Sexual_Health_Introduction_Letter.pdf",
+                "isPdf": true,
+                "isPrewritten": true
                 }
-              ]
             },
             {
-              "id":30,
-              "title": "Build Your Own Content",
-              "subCategory": [
-                {
-                  "id":31,
-                  "title": "Overview Video (:61)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/558301670' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "558301670",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":32,
-                  "title": "*** The Nobel Prize & Sexual Health (PDF)",
-                  "html": "",
-                  "content": {
-                    "title": "The Nobel Prize & Sexual Health (PDF)",
-                    "thumbnail": "",
-                    "url": "https://synergylegacynetwork.com/files/The_history_of_ProArgi-9+.pdf",
-                    "isPdf": true
-                  }
-                },
-                {
-                  "id":33,
-                  "title": "Testimonial: Sexual Function Video (:23)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50322034' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "50322034",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                }
-              ]
+              "expand":false,
+"id":31,
+              "title": "Overview (:58 video)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/558301670' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "558301670",
+                "isVimeo": true,
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":28,
+              "title": "Keynote (3:49 video)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/558301670' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "558301670",
+                "isVimeo": true,
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":32,
+              "title": "Sexual Health & The Nobel Prize in Medicine (PDF)",
+              "html": "",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "https://synergylegacynetwork.com/files/The_history_of_ProArgi-9+.pdf",
+                "isPdf": true
+              }
+            },
+            {
+              "expand":false,
+"id":33,
+              "title": "Testimonial: Sexual Health & Liver Enzymes (Video)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50322034' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "50322034",
+                "isVimeo": true,
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":30,
+              "title": "Ready-to-send Invite: Sexual Health (content & video links)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50322034' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "50322034",
+                "isVimeo": true,
+                "isPdf": false
+              }
             }
           ]
         },
         {
-          "id":34,
-          "title": "Immune Health",
-          "subCategory": [
-            {
-              "id":35,
-              "title": "Pre-Written Invite",
-              "subCategory": [
-                {
-                  "id":36,
-                  "title": "Immune Support Invite with links ",
-                  "html": "<div class='row'><div class='col-7 col-sm-6' id='pdfLeft'><img src='http://synergylegacynetwork.com/images/prof-rowing.png' class='img-responsive'></div><div class='col-5 col-sm-6' id='pdfRight'><p><h4 style='font-size: 30px !important;'>Rowing (PDF)</h4> <br><a href='http://synergylegacynetwork.com/files/Rowing.pdf' target='_blank'><button type='button' id='sharedbutton' class='click_historyproargi_pdfbutton' value='count_1'>View PDF</button> </a></p></div></div>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "https://synergylegacynetwork.com/files/Immune_Health_Introduction_Letter.pdf",
-                    "isPdf": true
-                  }
-                }
-              ]
-            },
-            {
-              "id":37,
-              "title": "Build Your Own Content ",
-              "subCategory": [
-                {
-                  "id":38,
-                  "title": "Intro Video (:60)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/558301457' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "558301457",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":39,
-                  "title": "Overview Video (0:49)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/558301273' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "",
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":40,
-                  "title": "Keynote Video (0:49)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/558301098' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "",
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":41,
-                  "title": "Testimonial: Immune Health video",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/558300953' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "",
-                    "isPdf": false
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id":42,
+          "expand":false,
+"id":42,
           "title": "Scientific/Clinical Information",
           "subCategory": [
             {
-              "id":43,
-              "title": "Pre-Written Invite",
-              "subCategory": [
-                {
-                  "id":44,
-                  "title": "Scientific & Clinical Information with links",
-                  "html": "<br><br><div class='section_5'><iv class='container'><div class='container--item'><p>[contactName],</p><p>SCIENTIFIC & CLINICAL INFORMATION LETTER – NEEDS UPDATING</p><p>As an introduction, the amino acid <strong>L-Arginine</strong> is considered by many health researchers to be the most potent nutraceutical ever discovered and is referred to by scientists as the <strong>Miracle Molecule</strong>. The remarkable properties of <strong>L-Arginine were validated by the 1998 Nobel Prize in Medicine,</strong> and since then have created a frenzy of interest in the Pharmaceutical and Nutraceutical fields, alike. </p><p>Medical researchers have gathered enough clinical evidence to bring L-Arginine to the forefront of modern medicine as an accepted health enhancement for a variety of human health challenges. The L-Arginine phenomenon is changing standard treatment methodologies in heart disease, immune function, adiposity-generated diseases, genetic growth deficiencies, high blood pressure, sexual dysfunction, human aging, and much more. </p><p><strong>Columbia University refers to L-Arginine as the 'Magic Bullet' for the cardiovascular system. </strong>Over 10,000 L-arginine citations were compiled by Columbia University researchers in their quest to document the clinical benefits of this simple amino acid. It is now taught to medical students at Columbia University College of Physicians and Surgeons. </p><p>The Nobel Prize landmark discovery of Nitric Oxide (NO) revealed that not only is human life not possible without NO, but there is also irrefutable evidence that L-arginine (the chief ingredient in ProArgi-9+) is the body's chief source for creating Nitric Oxide. </p><p>Today, physicians, researchers, and scientists are embracing the effectiveness of L-arginine and its use has become mainstream. Due to the outstanding clinical results patients who have used ProArgi-9+ as part of their medical treatments, ProArgi-9+ has been listed in the Prescribers' Digital Reference (The PDR, formerly known as the Physicians' Desk Reference) since 2009 and is the only L-Arginine formula listed in this reference guide. </p><p>In addition to cardiovascular health, ProArgi-9+ has been shown to positively impact hundreds of other health conditions, not to mention its ability to increase lean muscle mass, increase lung capacity, increase performance and recovery and much more! It just makes sense, with good circulation, good things happen to the body. </p><p><strong> THE STORY OF PROARGI-9+ (6 minute video, 'The Historic Look at Clinical Proof):  </strong></p><p><strong> <a href='https://player.vimeo.com/video/315458126'>https://player.vimeo.com/video/315458126</a>  </strong></p><p><strong> NOBEL PRIZE IN MEDICINE WINNER: Dr. Lous Ignarro  </strong></p><p>Learn from Dr. Ignarro's book, 'NO More Heart Disease” how L-Arginine can <strong> 'prevent and even reverse heart disease'.  </strong>Find this book on Amazon: <strong> <a href='https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA'>https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA </a>  </strong></p><p>As you are reviewing this information, write down all your questions so I can get the answers for you! </p><p>Talk to you soon! </p><p>[senderName]</p></div></div></div>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "https://synergylegacynetwork.com/files/scientific-prewritten.png",
-                    "url": "https://synergylegacynetwork.com/files/Scientific__26_Clinical_Information_Introduction_Letter.pdf",
-                    "isPdf": true,
-                    "isPrewritten": true
-                  }
-                }
-              ]
+              "expand":false,
+"id":44,
+              "title": "History of ProArgi-9+ (PDF)",
+              "html": "<br><br><div class='section_5'><iv class='container'><div class='container--item'><p>[contactName],</p><p>SCIENTIFIC & CLINICAL INFORMATION LETTER – NEEDS UPDATING</p><p>As an introduction, the amino acid <strong>L-Arginine</strong> is considered by many health researchers to be the most potent nutraceutical ever discovered and is referred to by scientists as the <strong>Miracle Molecule</strong>. The remarkable properties of <strong>L-Arginine were validated by the 1998 Nobel Prize in Medicine,</strong> and since then have created a frenzy of interest in the Pharmaceutical and Nutraceutical fields, alike. </p><p>Medical researchers have gathered enough clinical evidence to bring L-Arginine to the forefront of modern medicine as an accepted health enhancement for a variety of human health challenges. The L-Arginine phenomenon is changing standard treatment methodologies in heart disease, immune function, adiposity-generated diseases, genetic growth deficiencies, high blood pressure, sexual dysfunction, human aging, and much more. </p><p><strong>Columbia University refers to L-Arginine as the 'Magic Bullet' for the cardiovascular system. </strong>Over 10,000 L-arginine citations were compiled by Columbia University researchers in their quest to document the clinical benefits of this simple amino acid. It is now taught to medical students at Columbia University College of Physicians and Surgeons. </p><p>The Nobel Prize landmark discovery of Nitric Oxide (NO) revealed that not only is human life not possible without NO, but there is also irrefutable evidence that L-arginine (the chief ingredient in ProArgi-9+) is the body's chief source for creating Nitric Oxide. </p><p>Today, physicians, researchers, and scientists are embracing the effectiveness of L-arginine and its use has become mainstream. Due to the outstanding clinical results patients who have used ProArgi-9+ as part of their medical treatments, ProArgi-9+ has been listed in the Prescribers' Digital Reference (The PDR, formerly known as the Physicians' Desk Reference) since 2009 and is the only L-Arginine formula listed in this reference guide. </p><p>In addition to cardiovascular health, ProArgi-9+ has been shown to positively impact hundreds of other health conditions, not to mention its ability to increase lean muscle mass, increase lung capacity, increase performance and recovery and much more! It just makes sense, with good circulation, good things happen to the body. </p><p><strong> THE STORY OF PROARGI-9+ (6 minute video, 'The Historic Look at Clinical Proof):  </strong></p><p><strong> <a href='https://player.vimeo.com/video/315458126'>https://player.vimeo.com/video/315458126</a>  </strong></p><p><strong> NOBEL PRIZE IN MEDICINE WINNER: Dr. Lous Ignarro  </strong></p><p>Learn from Dr. Ignarro's book, 'NO More Heart Disease” how L-Arginine can <strong> 'prevent and even reverse heart disease'.  </strong>Find this book on Amazon: <strong> <a href='https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA'>https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA </a>  </strong></p><p>As you are reviewing this information, write down all your questions so I can get the answers for you! </p><p>Talk to you soon! </p><p>[senderName]</p></div></div></div>",
+              "content": {
+                "title": "",
+                "thumbnail": "https://synergylegacynetwork.com/files/scientific-prewritten.png",
+                "url": "https://synergylegacynetwork.com/files/Scientific__26_Clinical_Information_Introduction_Letter.pdf",
+                "isPdf": true,
+                "isPrewritten": true
+              }
             },
             {
-              "id":45,
-              "title": "Build Your Own Content",
-              "subCategory": [
-                {
-                  "id":46,
-                  "title": "Overview Video (:62)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/558300775' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "558300775",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":47,
-                  "title": "Quick Facts Video (3:49)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/cGGdp2KcrFA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "https://synergylegacynetwork.com/videos/proargi-9-quick-facts.mp4",
-                    "url": "",
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":48,
-                  "title": "ProArgi-9+ Bless Your Heart Video (10:06)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/wvzF2bSxD0s' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "https://synergylegacynetwork.com/videos/proargi-9+-bless-your-heart.mp4",
-                    "isPdf": false
-                  }
-                },
-                {
-                  "id":49,
-                  "title": "Heart Health with Dr. Noah Jenkins Video (45:47)",
-                  "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/551968300' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-                  "content": {
-                    "title": "",
-                    "thumbnail": "",
-                    "url": "551968300",
-                    "isVimeo": true,
-                    "isPdf": false
-                  }
-                }
-              ]
+              "expand":false,
+"id":48,
+              "title": "ProArgi-9+ Bless Your Heart Video (10:06)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/wvzF2bSxD0s' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "https://synergylegacynetwork.com/videos/proargi-9+-bless-your-heart.mp4",
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":49,
+              "title": "Heart Health with Dr. Noah Jenkins Video (45:47)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/551968300' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "",
+                "url": "551968300",
+                "isVimeo": true,
+                "isPdf": false
+              }
+            },
+            {
+              "expand":false,
+"id":47,
+              "title": "Ready-to-send Invite: Scientific/Clinical Information (content & video links)",
+              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://www.youtube.com/embed/cGGdp2KcrFA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+              "content": {
+                "title": "",
+                "thumbnail": "https://synergylegacynetwork.com/videos/proargi-9-quick-facts.mp4",
+                "url": "",
+                "isPdf": false
+              }
             }
           ]
         }
       ]
     },
     {
-      "id":50,
+      "expand":false,
+"id":50,
       "title": "Weight Loss & Gut Health",
       "subCategory": [
         {
-          "id":51,
-          "title": "Pre-written Invite",
-          "subCategory": [
-            {
-              "id":52,
-              "title": "Weight Loss & Gut Health Information with links",
-              "html": "<br><br><div class='section_5'><div class='container'><div class='container--item'><p>[contactName],</p><p>As an introduction, the amino acid <strong>L-Arginine </strong>is considered by many health researchers to be the most potent nutraceutical ever discovered and is referred to by scientists as the <strong>Miracle Molecule.</strong> The remarkable properties of <strong> L-Arginine were validated by the 1998 Nobel Prize in Medicine,</strong> and since then have created a frenzy of interest in the Pharmaceutical and Nutraceutical fields, alike. </p><p>Medical researchers have gathered enough clinical evidence to bring L-Arginine to the forefront of modern medicine as an accepted health enhancement for a variety of human health challenges. The L-Arginine phenomenon is changing standard treatment methodologies in heart disease, immune function, adiposity-generated diseases, genetic growth deficiencies, high blood pressure, sexual dysfunction, human aging, and much more. </p><p><strong>Columbia University refers to L-Arginine as the 'Magic Bullet' for the cardiovascular system. </strong>Over 10,000 L-arginine citations were compiled by Columbia University researchers in their quest to document the clinical benefits of this simple amino acid. It is now taught to medical students at Columbia University College of Physicians and Surgeons.</p><p>The Nobel Prize landmark discovery of Nitric Oxide (NO) revealed that not only is human life not possible without NO, but there is also irrefutable evidence that L-arginine (the chief ingredient in ProArgi-9+) is the body's chief source for creating Nitric Oxide. </p><p>Today, physicians, researchers, and scientists are embracing the effectiveness of L-arginine and its use has become mainstream. Due to the outstanding clinical results patients who have used ProArgi-9+ as part of their medical treatments, ProArgi-9+ has been listed in the Prescribers' Digital Reference (The PDR, formerly known as the Physicians' Desk Reference) since 2009 and is the only L-Arginine formula listed in this reference guide. </p><p>In addition to cardiovascular health, ProArgi-9+ has been shown to positively impact hundreds of other health conditions, not to mention its ability to increase lean muscle mass, increase lung capacity, increase performance and recovery and much more! It just makes sense, with good circulation, good things happen to the body.</p><p><strong> STORY OF PROARGI-9+ (6 minute video, 'The Historic Look at Clinical Proof): </strong></p><p><strong> <a href='https://player.vimeo.com/video/315458126' target='_blank'> https://player.vimeo.com/video/315458126 </a> </strong></p><p> <strong>NOBEL PRIZE IN MEDICINE WINNER: Dr. Lous Ignarro </strong></p><p>Learn from Dr. Ignarro’s book, 'NO More Heart Disease' how L-Arginine can <strong>'prevent and even reverse heart disease'.</strong> Find this book on Amazon: <a href='https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA ' target='_blank'> https://www.amazon.com/More-Heart-Disease-Prevent-Even-Reverse-Heart-ebook/dp/B003G83UAA </a></strong></p><p>As you are reviewing this information, write down all your questions so I can get the answers for you! </p><p>Talk to you soon! </p><p>[senderName]</p></div></div></div>",
-              "content": {
-                "title": "",
-                "thumbnail": "https://synergylegacynetwork.com/files/cardio-prewritten.png",
-                "url": "https://synergylegacynetwork.com/files/ProArgi-9_2B_Cardiovascular_Letter.pdf",
-                "isPdf": true,
-                "isVimeo": false,
-                "isPrewritten": true
-              }
-            }
-          ]
+          "expand":false,
+"id":34,
+          "title": "Intro (:30 video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394319' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "https://synergylegacynetwork.com/images/products/PopUpsWithAssets/ProArgi-9+/Screenshot%20The%20History%20of%20ProArgi-9+%20Cropped.png",
+            "url": "541394319",
+            "isVimeo": true,
+            "isPdf": false
+          }
         },
         {
-          "id":53,
-          "title": "Build Your Own Content: The Problem",
-          "subCategory": [
-            {
-              "id":54,
-              "title": "The Problem: Weight Loss & the Microbiome (Video)  ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350732629' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "isPdf": false
-              }
-            },
-            {
-              "id":55,
-              "title": "The Problem: High Blood Pressure & the Microbiome (Video) ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201322' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "url": "354201322",
-                "isVimeo": true,
-                "isPdf": false
-              }
-            },
-            {
-              "id":56,
-              "title": "The Problem: Heart Burn & the Microbiome (Video) ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350732294' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "url": "350732294",
-                "isVimeo": true,
-                "isPdf": false
-              }
-            },
-            {
-              "id":57,
-              "title": "The Problem: Crohn’s, Colitis & the Microbiome (Video)  ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350732149' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "url": "350732149",
-                "isVimeo": true,
-                "isPdf": false
-              }
-            },
-            {
-              "id":58,
-              "title": "The Problem: Chronic Pain & the Microbiome (Video)  ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350731797' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "url": "350731797",
-                "isVimeo": true,
-                "isPdf": false
-              }
-            },
-            {
-              "id":59,
-              "title": "The Problem: Cholesterol & the Microbiome (Video)  ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351088307' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "url": "351088307",
-                "isVimeo": true,
-                "isPdf": false
-              }
-            },
-            {
-              "id":60,
-              "title": "The Problem: Diabetes & the Microbiome (Video)  ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351089256' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "url": "351089256",
-                "isVimeo": true,
-                "isPdf": false
-              }
-            },
-            {
-              "id":61,
-              "title": "The Problem: Chronic Fatigue, Auto Immune & the Microbiome (Video) ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351088804' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "url": "351088804",
-                "isVimeo": true,
-                "isPdf": false
-              }
-            },
-            {
-              "id":62,
-              "title": "The Problem: Insomnia & the Microbiome (Video) ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351089511' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "url": "351089511",
-                "isVimeo": true,
-                "isPdf": false
-              }
-            },
-            {
-              "id":63,
-              "title": "The Problem: Migraine Headaches & the Microbiome (Video ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201703' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "url": "354201703",
-                "isVimeo": true,
-                "isPdf": false
-              }
-            }
-          ]
+          "expand":false,
+"id":35,
+          "title": "Overview (:58 video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394527' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "541394527",
+            "isVimeo": true,
+            "isPdf": false
+          }
         },
         {
-          "id":64,
-          "title": "Build Your Own Content: The Solution",
-          "subCategory": [
-            {
-              "id":65,
-              "title": "The Solution (Video)  ",
-              "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351089909' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-              "content": {
-                "title": "",
-                "thumbnail": "",
-                "url": "351089909",
-                "isVimeo": true,
-                "isPdf": false
-              }
-            }
-          ]
+          "expand":false,
+"id":36,
+          "title": "Keynote (3:49 video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/541394592' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "541394592",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":54,
+          "title": "The Problem: Weight Loss & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350732629' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":55,
+          "title": "The Problem: High Blood Pressure & the Microbiome (Video) ",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201322' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "354201322",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":56,
+          "title": "The Problem: Heart Burn & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350732294' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "350732294",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":57,
+          "title": "The Problem: Crohn’s, Colitis & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350732149' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "350732149",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":58,
+          "title": "The Problem: Chronic Pain & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/350731797' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "350731797",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":59,
+          "title": "The Problem: Cholesterol & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351088307' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "351088307",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":61,
+          "title": "The Problem: Chronic Fatigue, Auto Immune & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351088804' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "351088804",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":60,
+          "title": "The Problem: Diabetes & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351089256' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "351089256",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":62,
+          "title": "The Problem: Insomnia & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/351089511' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "351089511",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":63,
+          "title": "The Problem: Migraine Headaches & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201703' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "354201703",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":631,
+          "title": "The Problem: FAT Cells & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201703' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "354201703",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":632,
+          "title": "The Problem: Immunity & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201703' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "354201703",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":634,
+          "title": "The Problem: Migraine Headaches & the Microbiome (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201703' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "354201703",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":635,
+          "title": "The Solution: Nutritional Therapeutics (Video)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201703' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "354201703",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":636,
+          "title": "Ready-to-send Invite: Weight Loss (content & video links)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201703' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "354201703",
+            "isVimeo": true,
+            "isPdf": false
+          }
+        },
+        {
+          "expand":false,
+"id":637,
+          "title": "Ready-to-send Invite: Gut Health (content & video links)",
+          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/354201703' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
+          "content": {
+            "title": "",
+            "thumbnail": "",
+            "url": "354201703",
+            "isVimeo": true,
+            "isPdf": false
+          }
         }
       ]
     },
     {
-      "id":67,
+      "expand":false,
+"id":67,
       "title": "Product formulation, Testing & Manufacturing Excellence",
       "subCategory": [
         {
-          "id":68,
-          "title": "Quality formulations video",
+          "expand":false,
+"id":68,
+          "title": "Quality Formulations (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/322066727' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -667,8 +704,9 @@
           }
         },
         {
-          "id":69,
-          "title": "Quality Self-Manufacturing video  ",
+          "expand":false,
+"id":69,
+          "title": "Quality Self-Manufacturing (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/322066931' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -679,8 +717,9 @@
           }
         },
         {
-          "id":70,
-          "title": "Test Method Excellence video ",
+          "expand":false,
+"id":70,
+          "title": "Test Method and Formula Excellence (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/322066803' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -691,8 +730,9 @@
           }
         },
         {
-          "id":71,
-          "title": "Finding the Finest Herbs video  ",
+          "expand":false,
+"id":71,
+          "title": "Finding the Finest Herbs (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/322067046' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -703,8 +743,9 @@
           }
         },
         {
-          "id":72,
-          "title": "The Hughes Center & Manufacturing Facility video",
+          "expand":false,
+"id":72,
+          "title": "The Hughes Center & Manufacturing Facility (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/301254454' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -715,8 +756,9 @@
           }
         },
         {
-          "id":73,
-          "title": "Quality Assurance video",
+          "expand":false,
+"id":73,
+          "title": "Quality Assurance (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/306489060' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -729,12 +771,14 @@
       ]
     },
     {
-      "id":74,
+      "expand":false,
+"id":74,
       "title": "Product Testimonials",
       "subCategory": [
         {
-          "id":75,
-          "title": "Sexual Function  & Liver Enzymes ",
+          "expand":false,
+"id":75,
+          "title": "Sexual Function & Liver Enzymes (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50322034' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -745,8 +789,9 @@
           }
         },
         {
-          "id":76,
-          "title": "Blood Pressure ",
+          "expand":false,
+"id":76,
+          "title": "Hypoglycemia (Video)",
           "html": "",
           "content": {
             "title": "",
@@ -756,8 +801,9 @@
           }
         },
         {
-          "id":77,
-          "title": "Weight Loss",
+          "expand":false,
+"id":77,
+          "title": "Heart Attack & Stroke (Video)",
           "html": "",
           "content": {
             "title": "",
@@ -767,8 +813,9 @@
           }
         },
         {
-          "id":78,
-          "title": "Energy",
+          "expand":false,
+"id":78,
+          "title": "Endurance (Video)",
           "html": "",
           "content": {
             "title": "",
@@ -778,8 +825,9 @@
           }
         },
         {
-          "id":79,
-          "title": "Hypoglycemia ",
+          "expand":false,
+"id":79,
+          "title": "Pain Relief & Chronic Fatigue (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50252903' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -789,19 +837,9 @@
           }
         },
         {
-          "id":80,
-          "title": "Pain Relief & Chronic Fatigue ",
-          "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50250438' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
-          "content": {
-            "title": "",
-            "thumbnail": "",
-            "url": "",
-            "isPdf": false
-          }
-        },
-        {
-          "id":81,
-          "title": "Neuropathy, Restless Leg,  Diabetes & Hormone Therapy ",
+          "expand":false,
+"id":81,
+          "title": "Neuropathy, Restless Leg, Diabetes & Hormone Therapy (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50256080' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -812,8 +850,9 @@
           }
         },
         {
-          "id":82,
-          "title": "Diabetes & High Blood Sugar ",
+          "expand":false,
+"id":82,
+          "title": "Diabetes & High Blood Pressure (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/50250432' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",
@@ -824,8 +863,9 @@
           }
         },
         {
-          "id":83,
-          "title": "Crohns ",
+          "expand":false,
+"id":83,
+          "title": "Crohn’s Disease (Video)",
           "html": "<div class='embed-responsive embed-responsive-16by9'><center><iframe src='https://player.vimeo.com/video/315593766' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'allowfullscreen></iframe></center></div><br>",
           "content": {
             "title": "",

@@ -18,15 +18,24 @@ export default class AccordionSubCategory extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      data: props.data,
-      expanded: false,
+      data: props,
+      expanded: props.content.expand,
       resource: '',
       isPdfView: false,
     }
   }
 
   toggleExpand = () => {
+    let newData = this.state.data
+    newData.content.expand = !this.state.expanded
+    this.props.onExpand(newData)
     this.setState({ expanded: !this.state.expanded })
+  }
+
+  onExpand = data => {
+    let newData = this.state.data
+    this.props.onExpand(newData)
+    this.setState({ data: newData })
   }
 
   renderPdfViewer = () => {
@@ -140,6 +149,7 @@ export default class AccordionSubCategory extends Component {
                           ? 'naa'
                           : 'wa'
                       }
+                      onExpand={data => this.onExpand(data)}
                       onPress={this.props.onPress}
                     />
                   </View>

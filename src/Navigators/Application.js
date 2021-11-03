@@ -61,7 +61,7 @@ const ApplicationNavigator = () => {
     <SafeAreaView style={[Layout.fill, { backgroundColor: '#545454' }]}>
       <NavigationContainer ref={navigationRef}>
         <StatusBar barStyle={darkMode ? 'light-content' : 'dark-content'} />
-        <Stack.Navigator headerMode="none">
+        <Stack.Navigator screenOptions={{ headerShown: false }}>
           {Platform.OS === 'ios' ? (
             <Stack.Screen name="Startup" component={IndexStartupContainer} />
           ) : (

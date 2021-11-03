@@ -252,6 +252,7 @@ class SendInvites extends Component {
       inputPopup: '',
       scrollViewRef: '',
       inputType: '',
+      categories: Data.category,
       listCategoryInvite: [],
       refreshing: false,
       synergy_id: '',
@@ -581,6 +582,11 @@ class SendInvites extends Component {
     })
   }
 
+  onExpand = data => {
+    // console.log('rico', this.state.categories)
+    this.setState({ categories: this.state.categories })
+  }
+
   onAddInvite = async (data, id) => {
     console.log(data)
     if (data.content.isVimeo) {
@@ -603,6 +609,7 @@ class SendInvites extends Component {
     data.html = data.html?.replace('[senderName]', data.senderName)
     let $listInvitePreview = this.state.listCategoryInvite
     // let hashId = this.makeid(32)
+    data.oldId = data.id
     data.id = order.length
     $listInvitePreview[order.length] = data
     order = Object.keys($listInvitePreview)
@@ -694,13 +701,14 @@ class SendInvites extends Component {
             style={{ flex: 1 }}
             contentContainerStyle={{ padding: 20 }}
           >
-            {Data.category.map((item, id) => {
+            {this.state.categories.map((item, id) => {
               return (
                 <AccordionCategory
                   key={`${id}_main_${item.id}`}
                   title={item.title}
                   contentList={item}
                   onUploadFile={file => this.uploadFileFunction(file)}
+                  onExpand={data => this.onExpand(data)}
                   onPress={(data, key) => this.onAddInvite(data, key)}
                 />
               )
