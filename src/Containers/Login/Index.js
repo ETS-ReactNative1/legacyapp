@@ -11,6 +11,8 @@ const IndexLoginContainer = ({ navigation }) => {
   const { Layout } = useTheme()
   const [username, setUsername] = useState('partners@legacynetwork.com')
   const [password, setPassword] = useState('bld')
+  const [isLoading, setLoading] = useState(false)
+  const [loginLabel, setLoginLabel] = useState('Login')
   const dispatch = useDispatch()
   // const user = useSelector(state => state.user.item)
   const fetchOneUserLoading = useSelector(state => state.user.login.loading)
@@ -36,6 +38,8 @@ const IndexLoginContainer = ({ navigation }) => {
 
   const onLogin = async () => {
     let that = this
+    setLoading(true)
+    setLoginLabel('Loading...')
     const args = {
       username,
       password,
@@ -64,6 +68,8 @@ const IndexLoginContainer = ({ navigation }) => {
             text1: result.data.message,
           })
         }
+        setLoading(false)
+        setLoginLabel('Login')
       },
     }
 
@@ -83,6 +89,8 @@ const IndexLoginContainer = ({ navigation }) => {
       <Input
         placeholder="Username"
         value={username}
+        editable={!isLoading}
+        textStyle={{ color: !isLoading ? 'black' : 'gray' }}
         containerStyle={{ marginBottom: 15 }}
         onChangeText={username => setUsername(username)}
         keyboardType="email-address"
@@ -92,6 +100,8 @@ const IndexLoginContainer = ({ navigation }) => {
         placeholder="Password"
         value={password}
         secureText={true}
+        editable={!isLoading}
+        textStyle={{ color: !isLoading ? 'black' : 'gray' }}
         onChangeText={password => setPassword(password)}
         containerStyle={{ marginBottom: 15 }}
       />
@@ -100,7 +110,8 @@ const IndexLoginContainer = ({ navigation }) => {
         disabled={fetchOneUserLoading}
         type="info"
         textColor="white"
-        text="Login"
+        text={loginLabel}
+        textStyle={{ color: !isLoading ? 'white' : 'lightgray' }}
         onPress={() => onLogin()}
       />
     </ScrollView>

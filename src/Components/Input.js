@@ -13,6 +13,7 @@ const Input = ({
   maxLength,
   keyboardType,
   autoFocus,
+  textStyle,
 }) => (
   <View style={containerStyle}>
     <TextInput
@@ -28,6 +29,7 @@ const Input = ({
       style={[
         styles.InputDes,
         multiLine ? styles.inputIsMultiLine : styles.inputNotMultiline,
+        textStyle,
       ]}
       onChangeText={onChangeText}
       multiline={multiLine}
